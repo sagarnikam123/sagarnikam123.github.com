@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Azad Parinda
+tagline: Where freedom comes true...
 ---
 {% include JB/setup %}
 
