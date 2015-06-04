@@ -148,7 +148,7 @@ Change ``` ID ```  in script to your fan page.
 
 -------------------------------
 
-Save above script as fbPhotos.py & run as below.
+Save above script as ``` fbPhotos.py ``` & run as below.
 
 ```
 python fbPhotos.py 
