@@ -6,6 +6,7 @@ category: tips & tricks
 tags: [facebook,photos,download]
 ---
 {% include JB/setup %}
+{% include comments.html %}
 
 This article shows how to download all photos of a fan page using python script.   
 Script will download photos into folder named by fan page id.  
@@ -153,3 +154,5 @@ Save above script as ``` fbPhotos.py ``` & run as below.
 ```
 python fbPhotos.py 
 ```
+
+-------------------------------
