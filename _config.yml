@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Azad Parinda
+tagline: where freedom comes true...
 author :
   name : Sagar Nikam
   email : sagarnikam123@gmail.com
@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : sagarnikam123
     livefyre :
       site_id : 123
     intensedebate :
@@ -116,7 +116,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : plusone
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
