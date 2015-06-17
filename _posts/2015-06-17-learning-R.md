@@ -6,7 +6,7 @@ category: learning
 tags: [learn,R]
 ---
 {% include JB/setup %}
-{% include comments.html %}
+
 
 #### R
 * [R-Project site](http://www.r-project.org/ "R-Project site")
