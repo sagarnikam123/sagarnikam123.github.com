@@ -17,6 +17,7 @@ Script will download photos into folder named by fan page id.
 ------------------
 
 * Facebook Fanpage id  
+* Facebook access token ([Graph Explorer](https://developers.facebook.com/tools/explorer/ "Get access token from Facebook Graph explorer"))
 * Python 2.7  
 * Python pip  
 * Facebook-python-sdk  
