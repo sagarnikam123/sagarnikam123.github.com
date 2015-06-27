@@ -465,9 +465,9 @@ M\*A\*S\*H
 
 [Emoji cheatsheet](http://www.emoji-cheat-sheet.com/ "Emoji Cheatsheet") 
 
-:joy:  :heart_eyes:  :stuck_out_tongue_winking_eye: 
+:joy:  :heart_eyes:  :stuck_out_tongue_winking_eye:  :octocat: 
 
-	:joy:  :heart_eyes: :stuck_out_tongue_winking_eye: 
+	:joy:  :heart_eyes: :stuck_out_tongue_winking_eye:  :octocat: 
 
 ---
 
