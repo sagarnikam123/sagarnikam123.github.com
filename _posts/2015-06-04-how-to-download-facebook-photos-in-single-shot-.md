@@ -2,8 +2,8 @@
 layout: post
 title: "How to download facebook photos in single shot ?"
 description: "download all photos of a fan page using python script"
-category: tips & tricks
-tags: [facebook,photos,download]
+category: [BigData,tips & tricks,Photography]
+tags: [data,facebook,photos,download]
 ---
 {% include JB/setup %}
 
