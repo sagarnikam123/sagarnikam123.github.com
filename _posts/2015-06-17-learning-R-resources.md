@@ -28,6 +28,7 @@ tags: [resources,data science,learn,R,analytics]
 * Swirl - [Learn R, inside R](http://swirlstats.com/ "Swirl Stats")
 * Coursera - [Data Analysis using R](https://www.coursera.org/course/compdata "Data Science Course")
 * [UCLA R learing Resources](http://www.ats.ucla.edu/stat/r/ "Institute for Digital Research and Education, UCLA")
+* [OpenIntro](https://www.openintro.org "OpenIntro HomePage") (Textbooks, Labs, Videos, Forums,etc)
 
 ----------------------------
 
