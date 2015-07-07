@@ -2,8 +2,8 @@
 layout: post
 title: "Markdown Syntax (Cheatsheet)"
 description: "how to use markdown syntax with example codes"
-category: tips & tricks
-tags: [learn,Markdown]
+category: [tips & tricks,programming]
+tags: [learn,markdown,cheatsheet]
 ---
 {% include JB/setup %}
 
