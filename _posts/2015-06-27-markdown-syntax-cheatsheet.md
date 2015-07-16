@@ -7,9 +7,6 @@ tags: [learn,markdown,cheatsheet]
 ---
 {% include JB/setup %}
 
-
----
-
 ## Emphasis
 
 *Italics*
