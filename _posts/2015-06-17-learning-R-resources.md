@@ -82,6 +82,7 @@ and the R Core Team"))
 * [R Journal](http://journal.r-project.org/ "R Journal")
 * [R Graphical Manual](http://rgm3.lab.nig.ac.jp/RGM/top "R Graphical Manual")
 * [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html "R-Style Guide")
+* [Share/Embed R Code](http://www.r-fiddle.org/#/), [R-Fiddle Chrome extension](https://chrome.google.com/webstore/detail/r-fiddle/mbpmpbhpfcnemgcplhimlolikbljnmig)
 
 ----------------------------
 
