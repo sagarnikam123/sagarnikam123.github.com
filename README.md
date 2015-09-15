@@ -1,4 +1,4 @@
-# Azad Parinda
+# Azad Parinda  [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/sagarnikam123/azad-parinda)
 
 Where freedom comes true...
 
