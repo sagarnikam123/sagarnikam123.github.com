@@ -1,9 +1,15 @@
 ---
-layout: post
 title: "Markdown Syntax (Cheatsheet)"
-description: "how to use markdown syntax with example codes"
-category: [tips & tricks,programming]
-tags: [learn,markdown,cheatsheet]
+description: how to use markdown syntax with example codes
+layout: post
+output: html_document
+tags:
+- learn
+- markdown
+- cheatsheet
+category:
+- tips & tricks
+- programming
 ---
 {% include JB/setup %}
 
