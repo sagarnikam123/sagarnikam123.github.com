@@ -30,9 +30,10 @@ tags: [resources,problems,challenges]
 * [PKU JudgeOnline](http://poj.org/)
 * [Timus Onlnie judge](http://acm.timus.ru/)
 * [LeetCode Online Judge](https://leetcode.com/)
-* [Reddit-Daily Programmer](http://www.reddit.com/r/dailyprogrammer)  
-* [Reddit-ProgrammingChallenges](https://www.reddit.com/r/programmingchallenges) 
-* [Rankk](http://www.rankk.org)(Mathematics, Logic, Puzzle, cryptography, Steganography, CGI Security)
+* [Reddit-Daily Programmer](http://www.reddit.com/r/dailyprogrammer)
+* [Reddit-ProgrammingChallenges](https://www.reddit.com/r/programmingchallenges)
+* [Rank](http://www.rankk.org) [Mathematics, Logic, Puzzle, cryptography, Steganography, CGI Security]
+
 -----
 
 #### Competition
