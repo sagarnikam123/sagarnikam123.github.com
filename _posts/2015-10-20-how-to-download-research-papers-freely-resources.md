@@ -22,11 +22,15 @@ tags: [resources,papers]
 	* **alternatives to sci-hub**
 		* [LibGen](http://libgen.org/scimag/ "Libgen homepage")
 		* [Jxplore](http://jxplore.com/ "Jxplore homepage")
+
+-----
 	
-* **Video**
-	* [YouTube-How to download research papers freely - 4 min](https://youtu.be/opqSaGgLarw)
-	
-	* [Vimeo-How to download research papers freely - 4 min](https://vimeo.com/142993354)
+#### Video
+
+* [YouTube-How to download research papers freely - 4 min](https://youtu.be/opqSaGgLarw)
+
+* [Vimeo-How to download research papers freely - 4 min](https://vimeo.com/142993354)
+
 	
 <a href="https://youtu.be/4c6BloRfFvc"> <img src="http://img.youtube.com/vi/4c6BloRfFvc/0.jpg" 
 alt="How to download research papers freely - 4 min" width="700" height="50" border="0" /></a>
@@ -63,7 +67,7 @@ Some will upload their codes, images or related data/reference files to below re
 * [Scientilla](http://www.scientilla.net/ "Scientilla homepage") (Mac,Linux,Windows) (organize bibliographic metadata of scientific publications. )
 * [Hubmed](http://git.macropus.org/hubmed/ "Hubmed homepage") (An alternative interface to the PubMed medical literature database.)
 
-* [Papers we love](https://github.com/papers-we-love/papers-we-love)
+* [Papers we love](https://github.com/papers-we-love/papers-we-love "Papers from the computer science community to read and discus")
 
 -----
 
@@ -71,3 +75,5 @@ Some will upload their codes, images or related data/reference files to below re
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
+
+-----
