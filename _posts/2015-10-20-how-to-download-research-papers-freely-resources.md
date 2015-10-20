@@ -28,14 +28,14 @@ tags: [resources,papers]
 	
 	* [Vimeo-How to download research papers freely - 4 min](https://vimeo.com/142993354)
 	
-<a href="https://youtu.be/opqSaGgLarw"> <img src="http://img.youtube.com/vi/opqSaGgLarw/0.jpg" 
+<a href="https://youtu.be/4c6BloRfFvc"> <img src="http://img.youtube.com/vi/4c6BloRfFvc/0.jpg" 
 alt="How to download research papers freely - 4 min" width="700" height="50" border="0" /></a>
 	
 -----
 		
 #### Direct contact to author
 * Authors upload their articles just to made available to public & increase their discussion on that topic.
-Either go to author's lab webpage or departmental webpage or author has his own site by his name. Search it on either google.
+Either go to author's lab webpage or departmental webpage or author has his own site by his name. Search it on google.
 
 * Copy authors name & find his profile on below sites.
 Some will upload their codes, images or related data/reference files to below repository.
@@ -52,8 +52,6 @@ Some will upload their codes, images or related data/reference files to below re
 		* [LinkedIn](https://www.linkedin.com/ "LinkedIn homepage")
 		* [facebook fan page](https://www.facebook.com/ "facebook homepage")
 		* [Twitter](https://twitter.com/ "twitter homepage")
-
-* Most of researchers either upload their paid article on their personal sites or 	
 
 -----
 	
