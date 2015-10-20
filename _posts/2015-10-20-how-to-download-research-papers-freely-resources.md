@@ -28,8 +28,7 @@ tags: [resources,papers]
 	
 	* [Vimeo-How to download research papers freely - 4 min](https://vimeo.com/142993354)
 	
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=opqSaGgLarw
-" target="_blank"><img src="http://img.youtube.com/vi/opqSaGgLarw/0.jpg" 
+<a href="https://youtu.be/opqSaGgLarw"> <img src="http://img.youtube.com/vi/opqSaGgLarw/0.jpg" 
 alt="How to download research papers freely - 4 min" width="700" height="50" border="0" /></a>
 	
 -----
