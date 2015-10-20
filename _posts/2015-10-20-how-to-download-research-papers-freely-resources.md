@@ -22,7 +22,16 @@ tags: [resources,papers]
 	* **alternatives to sci-hub**
 		* [LibGen](http://libgen.org/scimag/ "Libgen homepage")
 		* [Jxplore](http://jxplore.com/ "Jxplore homepage")
-		
+	
+* **Video**
+	* [YouTube-How to download research papers freely - 4 min](https://youtu.be/opqSaGgLarw)
+	
+	* [Vimeo-How to download research papers freely - 4 min](https://vimeo.com/142993354)
+	
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=opqSaGgLarw
+" target="_blank"><img src="http://img.youtube.com/vi/opqSaGgLarw/0.jpg" 
+alt="How to download research papers freely - 4 min" width="700" height="50" border="0" /></a>
+	
 -----
 		
 #### Direct contact to author
@@ -44,10 +53,10 @@ Some will upload their codes, images or related data/reference files to below re
 		* [LinkedIn](https://www.linkedin.com/ "LinkedIn homepage")
 		* [facebook fan page](https://www.facebook.com/ "facebook homepage")
 		* [Twitter](https://twitter.com/ "twitter homepage")
-		
-		
-	
+
 * Most of researchers either upload their paid article on their personal sites or 	
+
+-----
 	
 #### Other Tools
 * [Mendeley](https://www.mendeley.com/ "Mendeley homepage") (Windows, Mac, Linux, iOS,Android)
@@ -58,6 +67,8 @@ Some will upload their codes, images or related data/reference files to below re
 * [Hubmed](http://git.macropus.org/hubmed/ "Hubmed homepage") (An alternative interface to the PubMed medical literature database.)
 
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
+
+-----
 
 #### How To Read a Paper
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
