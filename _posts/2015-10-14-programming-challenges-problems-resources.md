@@ -88,6 +88,7 @@ tags: [resources,problems,challenges]
 * [RubyQuiz](http://rubyquiz.com/)
 * [The International Obfuscated C Code Contest](http://www.ioccc.org/) (C)
 * [4Clojure](http://www.4clojure.com/)
+* [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
 
 -----
 
