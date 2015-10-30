@@ -53,6 +53,7 @@ tags: [resources,problems,challenges]
 * [The Loebner Prize in Artificial Intelligence](http://www.loebner.net/Prizef/loebner-prize.html)
 * [Chatterbox Challenge ](http://www.chatterboxchallenge.com/)
 * [Microsoft Imagine cup](https://www.imaginecup.com/)
+* [Hatch-Stockroom](http://hatch.stockroom.io/)
 
 
 -----
