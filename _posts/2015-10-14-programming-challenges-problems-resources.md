@@ -90,6 +90,7 @@ tags: [resources,problems,challenges]
 * [The International Obfuscated C Code Contest](http://www.ioccc.org/) (C)
 * [4Clojure](http://www.4clojure.com/)
 * [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
+* [Hackster](https://www.hackster.io/challenges) (IoT challenges)
 
 -----
 
