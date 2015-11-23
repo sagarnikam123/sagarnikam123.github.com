@@ -11,7 +11,7 @@ tags: [resources,papers]
 #### Black magic works
 99.99 % guarantee **sci-hub** will sure to find a paper & download it.
 
-* **[Sci-hub](http://sci-hub.org "Sci-hub homepage")**
+* **[Sci-hub](http://sci-hub.io/ "Sci-hub New homepage")**
 
 
 	* Copy URL/article title or DOI, or PMID -> paste in box -> hit *search* button.
@@ -20,6 +20,7 @@ tags: [resources,papers]
 	* Sci-Hub restricted to few countries users e.g.Russians, in this case user proxy sites/servers or setup VPN connection.
 	
 	* **alternatives to sci-hub**
+		* [Sci-hub tor link](scihub22266oqcxt.onion "Sci-hub tor access link")
 		* [LibGen](http://libgen.org/scimag/ "Libgen homepage")
 		* [Jxplore](http://jxplore.com/ "Jxplore homepage")
 
