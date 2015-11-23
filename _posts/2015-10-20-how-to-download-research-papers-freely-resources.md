@@ -16,12 +16,12 @@ tags: [resources,papers]
 
 	* Copy URL/article title or DOI, or PMID -> paste in box -> hit *search* button.
 	* If *server goes down*, wait for few minuts, again try or go to *alternative sites.*
-	* If you can’t access sci-hub in your country, install *Proxmate* add-on to [Firefox](https://addons.mozilla.org/en-US/firefox/addon/proxmate/ "Proxmate firefox add-On")/[Chrome](https://chrome.google.com/webstore/detail/proxmate/ifalmiidchkjjmkkbkoaibpmoeichmki "Proxmate Chrome extension").
-	* Sci-Hub restricted to few countries users e.g.Russians, in this case user proxy sites/servers or setup VPN connection.
+	* If you can’t access sci-hub in your country, use [tor browser](https://www.torproject.org/projects/torbrowser.html.en) or install *Proxmate* add-on/chrome extension ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/proxmate/ "Proxmate firefox add-On")/[Chrome](https://chrome.google.com/webstore/detail/proxmate/ifalmiidchkjjmkkbkoaibpmoeichmki "Proxmate Chrome extension")) or *Zenmate* ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/zenmate-security-privacy-vpn/) / [Chrome](https://chrome.google.com/webstore/detail/zenmate-security-privacy/fdcgdnkidjaadafnichfpabhfomcebme?hl=en))
+	* Sci-Hub restricted to few countries users e.g.Russians, in this case user proxy sites/servers or setup VPN connection *ExtensionUnlimited Free VPN - betternet* ([firefox](https://addons.mozilla.org/en-us/firefox/addon/unlimited-free-vpn-betternet/?src=search)/ [chrome](https://chrome.google.com/webstore/detail/unlimited-free-vpn-better/gjknjjomckknofjidppipffbpoekiipm?hl=en)) .
 	
 	* **alternatives to sci-hub**
 		* [Sci-hub tor link](scihub22266oqcxt.onion "Sci-hub tor access link")
-		* [LibGen](http://libgen.org/scimag/ "Libgen homepage")
+		* [LibraryGenesis](http://gen.lib.rus.ec/) or [LibraryGenesis-Scimag](http://libgen.org/scimag/ "Libgen homepage") or [Libgen.io](http://libgen.io/) or [Libgen-Scimag](http://93.174.95.27/scimag/) or 
 		* [Jxplore](http://jxplore.com/ "Jxplore homepage")
 
 -----
