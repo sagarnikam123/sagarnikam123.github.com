@@ -14,6 +14,7 @@ tags: [resources,problems,challenges]
 * [CodeChef](http://www.codechef.com/ "Codechef homepage")
 * [Hacker Earth](https://www.hackerearth.com/)
 * [Hacker Rank](https://www.hackerrank.com)
+* [Devpost](http://devpost.com/ "Devpost")
 * [Techgig](http://www.techgig.com/codecontest "Techgig homepage")
 * [Sphere online judge](http://www.spoj.com/ "Sphere online judge homepage")
 * [codingbat](http://codingbat.com/ "CodingBat homepage")
