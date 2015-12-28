@@ -17,7 +17,7 @@ tags: [resources,data science,learn,R,analytics]
 ----------------------------
 
 #### Online learning
-* CodeSchool - [Try R]()
+* CodeSchool - [Try R](http://tryr.codeschool.com/)
 * Teamleada - [Introducing R](https://www.teamleada.com/tutorials/introduction-to-statistical-programming-in-r "Introducing R")
 * Datacamp - [R](https://www.datacamp.com/#/ "R-online coding")
 * RStudio online learing - [RStudio online](http://www.rstudio.com/resources/training/online-learning/)
