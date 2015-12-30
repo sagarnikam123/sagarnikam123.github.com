@@ -56,6 +56,17 @@ tags: [resources,problems,challenges]
 * [Microsoft Imagine cup](https://www.imaginecup.com/)
 * [Hatch-Stockroom](http://hatch.stockroom.io/)
 
+-----
+
+#### Hackathon
+* [Hackathon.io](http://www.hackathon.io/events)
+* [Hackerleague](https://www.hackerleague.org/hackathons)
+* [Devpost-Hackathon](http://devpost.com/hackathons)
+* [Angelhack](http://angelhack.com/events/)
+* [NY-Hackathons](http://nyhackathons.com/)
+* [mlh.io](https://mlh.io/seasons/s2015/events)
+* [Fiware](https://www.fiware.org/events/)
+* [Japacible-Hackathon calendar](https://github.com/japacible/Hackathon-Calendar)
 
 -----
 
@@ -77,7 +88,6 @@ tags: [resources,problems,challenges]
 * [IPCC-ACM](https://icpc.baylor.edu/)
 * [SSU-ACM](http://acm.sgu.ru/)
 * [Google code jam](https://code.google.com/codejam/contests.html)
-
 
 -----
 
@@ -105,7 +115,6 @@ tags: [resources,problems,challenges]
 * [Mozilla Openbadges](https://backpack.openbadges.org/backpack/login)
 
 ----
-
 
 #### Blogs
 * [Open News](https://source.opennews.org/en-US/) (code conference announcements)
