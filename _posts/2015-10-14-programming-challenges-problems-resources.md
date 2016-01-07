@@ -55,7 +55,7 @@ tags: [resources,problems,challenges]
 * [Chatterbox Challenge ](http://www.chatterboxchallenge.com/)
 * [Microsoft Imagine cup](https://www.imaginecup.com/)
 * [Hatch-Stockroom](http://hatch.stockroom.io/)
-
+* [Unicom learning contests](http://www.unicomlearning.com/contests.html)
 -----
 
 #### Hackathon
