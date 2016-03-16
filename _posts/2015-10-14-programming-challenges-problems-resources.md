@@ -103,7 +103,7 @@ tags: [resources,problems,challenges]
 * [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
 * [Hackster](https://www.hackster.io/challenges) (IoT challenges)
 * [Datahack-AnalyticsVidhya](http://datahack.analyticsvidhya.com/contest/all) (Data Science)
-
+* [Databits](http://databits.io/challenges/opensource)(Data Science)
 -----
 
 #### Others
