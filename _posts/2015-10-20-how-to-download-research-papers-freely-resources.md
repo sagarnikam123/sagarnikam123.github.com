@@ -11,9 +11,9 @@ tags: [resources,papers]
 #### Black magic works
 99.99 % guarantee **sci-hub** will sure to find a paper & download it.
 
-* **[Sci-hub](http://sci-hub.io/ "Sci-hub New homepage")**
+* **[Sci-hub](http://sci-hub.cc/ "Sci-hub New homepage")**
 
-
+	* other url - [sci-hub.io](http://sci-hub.io/ "Sci-hub IO"), [sci-hub.org](http://sci-hub.org/ "Sci-hub org")
 	* Copy URL/article title or DOI, or PMID -> paste in box -> hit *search* button.
 	* If *server goes down*, wait for few minuts, again try or go to *alternative sites.*
 	* If you can’t access sci-hub in your country, use [tor browser](https://www.torproject.org/projects/torbrowser.html.en) or install *Proxmate* add-on/chrome extension ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/proxmate/ "Proxmate firefox add-On")/[Chrome](https://chrome.google.com/webstore/detail/proxmate/ifalmiidchkjjmkkbkoaibpmoeichmki "Proxmate Chrome extension")) or *Zenmate* ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/zenmate-security-privacy-vpn/) / [Chrome](https://chrome.google.com/webstore/detail/zenmate-security-privacy/fdcgdnkidjaadafnichfpabhfomcebme?hl=en))
