@@ -112,6 +112,7 @@ tags: [resources,problems,challenges]
 * [Crowdanalytix](https://www.crowdanalytix.com/listContests)
 * [Innocentive](https://www.innocentive.com) (All industries)
 * [Quora-challenges](https://www.quora.com/challenges)
+* [Dream Challenges](http://dreamchallenges.org/) (biology & medicine)
 
 -----
 
