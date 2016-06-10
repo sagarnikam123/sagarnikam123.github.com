@@ -104,6 +104,9 @@ tags: [resources,problems,challenges]
 * [Hackster](https://www.hackster.io/challenges) (IoT challenges)
 * [Datahack-AnalyticsVidhya](http://datahack.analyticsvidhya.com/contest/all) (Data Science)
 * [Databits](http://databits.io/challenges/opensource)(Data Science)
+* [Kaggle](https://www.kaggle.com/)(Data science)
+* [DrivenData](https://www.drivendata.org/)(Data science) 
+
 -----
 
 #### Others
