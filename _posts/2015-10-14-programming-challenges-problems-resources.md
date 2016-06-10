@@ -92,7 +92,7 @@ tags: [resources,problems,challenges]
 
 -----
 
-#### domain specific
+#### domain specific challenges
 * [Cplus aboutTech](http://cplus.about.com/od/programmingchallenges/ "C,C++,C# Challenges") [C,C++,C# Challenges]
 * [Python Challenge](http://www.pythonchallenge.com/ )
 * [Challenges in Mahine learning](http://www.chalearn.org/)
@@ -106,7 +106,12 @@ tags: [resources,problems,challenges]
 * [Datahack-AnalyticsVidhya](http://datahack.analyticsvidhya.com/contest/all) (Data Science)
 * [Databits](http://databits.io/challenges/opensource) (Data Science)
 * [Kaggle](https://www.kaggle.com/) (Data science)
-* [DrivenData](https://www.drivendata.org/) (Data science) 
+* [DrivenData](https://www.drivendata.org/) (Data science)
+* [Clopinet](http://clopinet.com/challenges/) (Machine learning)
+* [TunedIT](http://tunedit.org/challenges) (Data science)
+* [Crowdanalytix](https://www.crowdanalytix.com/listContests)
+* [Innocentive](https://www.innocentive.com) (All industries)
+* [Quora-challenges](https://www.quora.com/challenges)
 
 -----
 
