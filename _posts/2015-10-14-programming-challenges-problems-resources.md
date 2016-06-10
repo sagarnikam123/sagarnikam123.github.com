@@ -56,6 +56,7 @@ tags: [resources,problems,challenges]
 * [Microsoft Imagine cup](https://www.imaginecup.com/)
 * [Hatch-Stockroom](http://hatch.stockroom.io/)
 * [Unicom learning contests](http://www.unicomlearning.com/contests.html)
+
 -----
 
 #### Hackathon
@@ -103,9 +104,9 @@ tags: [resources,problems,challenges]
 * [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
 * [Hackster](https://www.hackster.io/challenges) (IoT challenges)
 * [Datahack-AnalyticsVidhya](http://datahack.analyticsvidhya.com/contest/all) (Data Science)
-* [Databits](http://databits.io/challenges/opensource)(Data Science)
-* [Kaggle](https://www.kaggle.com/)(Data science)
-* [DrivenData](https://www.drivendata.org/)(Data science) 
+* [Databits](http://databits.io/challenges/opensource) (Data Science)
+* [Kaggle](https://www.kaggle.com/) (Data science)
+* [DrivenData](https://www.drivendata.org/) (Data science) 
 
 -----
 
