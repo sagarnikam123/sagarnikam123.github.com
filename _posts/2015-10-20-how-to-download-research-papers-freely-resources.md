@@ -13,31 +13,31 @@ tags: [resources,papers]
 
 * **[Sci-hub](http://sci-hub.cc/ "Sci-hub New homepage")**
 
-	* other url - [sci-hub.io](http://sci-hub.io/ "Sci-hub IO"), [sci-hub.org](http://sci-hub.org/ "Sci-hub org")
+	* other url -[sci-hub.cc](http://sci-hub.cc/ "Sci-hub New homepage"), [sci-hub.io](http://sci-hub.io/ "Sci-hub IO"), [sci-hub.org](http://sci-hub.org/ "Sci-hub org")
 	* Copy URL/article title or DOI, or PMID -> paste in box -> hit *search* button.
 	* If *server goes down*, wait for few minuts, again try or go to *alternative sites.*
 	* If you can’t access sci-hub in your country, use [tor browser](https://www.torproject.org/projects/torbrowser.html.en) or install *Proxmate* add-on/chrome extension ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/proxmate/ "Proxmate firefox add-On")/[Chrome](https://chrome.google.com/webstore/detail/proxmate/ifalmiidchkjjmkkbkoaibpmoeichmki "Proxmate Chrome extension")) or *Zenmate* ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/zenmate-security-privacy-vpn/) / [Chrome](https://chrome.google.com/webstore/detail/zenmate-security-privacy/fdcgdnkidjaadafnichfpabhfomcebme?hl=en))
 	* Sci-Hub restricted to few countries users e.g.Russians, in this case user proxy sites/servers or setup VPN connection *ExtensionUnlimited Free VPN - betternet* ([firefox](https://addons.mozilla.org/en-us/firefox/addon/unlimited-free-vpn-betternet/?src=search)/ [chrome](https://chrome.google.com/webstore/detail/unlimited-free-vpn-better/gjknjjomckknofjidppipffbpoekiipm?hl=en)) .
-	
+
 	* **alternatives to sci-hub**
 		* [Sci-hub tor link](scihub22266oqcxt.onion "Sci-hub tor access link")
-		* [LibraryGenesis](http://gen.lib.rus.ec/) or [LibraryGenesis-Scimag](http://libgen.org/scimag/ "Libgen homepage") or [Libgen.io](http://libgen.io/) or [Libgen-Scimag](http://93.174.95.27/scimag/) or 
+		* [LibraryGenesis](http://gen.lib.rus.ec/) or [LibraryGenesis-Scimag](http://libgen.org/scimag/ "Libgen homepage") or [Libgen.io](http://libgen.io/) or [Libgen-Scimag](http://93.174.95.27/scimag/) or
 		* [Jxplore](http://jxplore.com/ "Jxplore homepage")
 
 -----
-	
+
 #### Video
 
 * [YouTube-How to download research papers freely - 4 min](https://youtu.be/4c6BloRfFvc)
 
 * [Vimeo-How to download research papers freely - 4 min](https://vimeo.com/142993354)
 
-	
-<a href="https://youtu.be/4c6BloRfFvc"> <img src="http://img.youtube.com/vi/4c6BloRfFvc/0.jpg" 
+
+<a href="https://youtu.be/4c6BloRfFvc"> <img src="http://img.youtube.com/vi/4c6BloRfFvc/0.jpg"
 alt="How to download research papers freely - 4 min" width="700" height="50" border="0" /></a>
-	
+
 -----
-		
+
 #### Direct contact to author
 * Authors upload their articles just to made available to public & increase their discussion on that topic.
 Either go to author's lab webpage or departmental webpage or author has his own site by his name. Search it on google.
@@ -59,7 +59,7 @@ Some will upload their codes, images or related data/reference files to below re
 		* [Twitter](https://twitter.com/ "twitter homepage")
 
 -----
-	
+
 #### Other Tools
 * [Mendeley](https://www.mendeley.com/ "Mendeley homepage") (Windows, Mac, Linux, iOS,Android)
 * [DataCite](https://www.datacite.org/ "establish easier access to research data on the Internet, increase acceptance of research data as legitimate, citable contributions to the scholarly record, support data archiving that will permit results to be verified and re-purposed for future study.")
