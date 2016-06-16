@@ -113,6 +113,7 @@ tags: [resources,problems,challenges]
 * [Innocentive](https://www.innocentive.com) (All industries)
 * [Quora-challenges](https://www.quora.com/challenges)
 * [Dream Challenges](http://dreamchallenges.org/) (biology & medicine)
+* [HackDay](https://hackaday.io/prize) (Design concept)
 
 -----
 
