@@ -114,6 +114,8 @@ tags: [resources,problems,challenges]
 * [Quora-challenges](https://www.quora.com/challenges)
 * [Dream Challenges](http://dreamchallenges.org/) (biology & medicine)
 * [HackDay](https://hackaday.io/prize) (Design concept)
+* [Gov Challenge](https://www.challenge.gov/list/)
+* [KDD](http://www.kdd.org/kdd-cup)
 
 -----
 
