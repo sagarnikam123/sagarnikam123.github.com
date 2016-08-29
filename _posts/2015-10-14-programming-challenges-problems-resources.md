@@ -116,6 +116,7 @@ tags: [resources,problems,challenges]
 * [HackDay](https://hackaday.io/prize) (Design concept)
 * [Gov Challenge](https://www.challenge.gov/list/)
 * [KDD](http://www.kdd.org/kdd-cup)
+* [DataKind](http://www.datakind.org/) (data science)
 
 -----
 
