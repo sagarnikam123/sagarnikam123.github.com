@@ -12,7 +12,7 @@ tags: [resume, company, cv, social media]
 will take example of a software engineer looking for data science job.
 
 Many recruiter just not only check your LinkedIn profile but checks your attitude/behaviour by analyzing your social profile on Facebook & Twitter.
-For higher positions, they just don't what person with huge experience, but with a strong passion & creativity.
+For higher positions, they just don't want a person with huge experience, but with a strong passion & creativity.
 
 ---
 
