@@ -15,6 +15,23 @@ lsof -i :8080
 sudo netstat -peanut | grep ":5140"
 ```
 
+##### checking port 8080 is open or not
+```
+cat /etc/services | grep 8080
+```
+
+##### connecting to open port
+```
+sudo yum install telnet
+telnet localhost 8080
+```
+
+##### scanning port for open port & running services on it
+```
+sudo yum install nmap
+sudo nmap -sT -O localhost
+```
+
 ---
 
 ### process
