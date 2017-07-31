@@ -12,8 +12,20 @@ tags: [troubleshooting, commands]
 ##### Check to see if the server is listening on the host:
 ```
 lsof -i :8080
+
+fuser 9092/tcp
+fuser -n tcp 9092
+
+netstat -ant | grep :2181
 sudo netstat -peanut | grep ":5140"
 ```
+
+#### kill process on specific port
+fuser -k 8080/tcp
+kill -9 $(lsof -t -i:8080)
+
+kill -9 $(lsof -t -i:9092)
+fuser -k 9092/tcp
 
 ##### checking port 8080 is open or not
 ```
