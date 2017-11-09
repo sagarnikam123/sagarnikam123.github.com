@@ -47,7 +47,7 @@ tags: [resources,data science,learn,R,analytics]
 #### Tutorials Guides (free)
 * An Introduction to R ([PDF](http://cran.r-project.org/doc/manuals/R-intro.pdf "An Introduction to R - W. N. Venables, D. M. Smith
 and the R Core Team"))
-* [R for Data Science](http://r4ds.had.co.nz/) (online)
+* R for Data Science ( [online](http://r4ds.had.co.nz/) )
 * The R Guide ([PDF](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf "The R Guide "))
 * An Introduction to R: Software for Statistical Modeling & Computing ([zipped](http://cran.r-project.org/doc/contrib/Kuhnert+Venables-R_Course_Notes.zip "zipped tutorials"))
 * Using R for Data Analysis and Graphics ([PDF](http://cran.r-project.org/doc/contrib/usingR.pdf "Using R for Data Analysis and Graphics "))
