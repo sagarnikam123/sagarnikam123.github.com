@@ -21,6 +21,7 @@ tags: [resources,data science,learn,R,analytics]
 * Teamleada - [Introducing R](https://www.teamleada.com/tutorials/introduction-to-statistical-programming-in-r "Introducing R")
 * Datacamp - [R](https://www.datacamp.com/#/ "R-online coding")
 * RStudio online learing - [RStudio online](http://www.rstudio.com/resources/training/online-learning/)
+* [Data Challenge Lab](https://dcl-2017-04.github.io/curriculum/)
 
 ----------------------------
 
@@ -28,6 +29,9 @@ tags: [resources,data science,learn,R,analytics]
 * Swirl - [Learn R, inside R](http://swirlstats.com/ "Swirl Stats")
 * Coursera - [Data Analysis using R](https://www.coursera.org/course/compdata "Data Science Course")
 * [UCLA R learing Resources](http://www.ats.ucla.edu/stat/r/ "Institute for Digital Research and Education, UCLA")
+* [UBC STAT 545](http://stat545.com/index.html "Data wrangling, exploration, and analysis with R")
+* [stat405](http://stat405.had.co.nz/ "Introduction to Data Analysis")
+* [STA112](http://www2.stat.duke.edu/courses/Fall17/sta112.01/)
 * [OpenIntro](https://www.openintro.org "OpenIntro HomePage") (Textbooks, Labs, Videos, Forums,etc)
 
 ----------------------------
@@ -43,6 +47,7 @@ tags: [resources,data science,learn,R,analytics]
 #### Tutorials Guides (free)
 * An Introduction to R ([PDF](http://cran.r-project.org/doc/manuals/R-intro.pdf "An Introduction to R - W. N. Venables, D. M. Smith
 and the R Core Team"))
+* [R for Data Science](http://r4ds.had.co.nz/) (online)
 * The R Guide ([PDF](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf "The R Guide "))
 * An Introduction to R: Software for Statistical Modeling & Computing ([zipped](http://cran.r-project.org/doc/contrib/Kuhnert+Venables-R_Course_Notes.zip "zipped tutorials"))
 * Using R for Data Analysis and Graphics ([PDF](http://cran.r-project.org/doc/contrib/usingR.pdf "Using R for Data Analysis and Graphics "))
