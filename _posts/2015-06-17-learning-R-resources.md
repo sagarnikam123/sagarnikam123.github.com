@@ -22,6 +22,7 @@ tags: [resources,data science,learn,R,analytics]
 * Datacamp - [R](https://www.datacamp.com/#/ "R-online coding")
 * RStudio online learing - [RStudio online](http://www.rstudio.com/resources/training/online-learning/)
 * [Data Challenge Lab](https://dcl-2017-04.github.io/curriculum/)
+* [DataQuest](https://www.dataquest.io/)
 
 ----------------------------
 
@@ -33,6 +34,7 @@ tags: [resources,data science,learn,R,analytics]
 * [stat405](http://stat405.had.co.nz/ "Introduction to Data Analysis")
 * [STA112](http://www2.stat.duke.edu/courses/Fall17/sta112.01/)
 * [OpenIntro](https://www.openintro.org "OpenIntro HomePage") (Textbooks, Labs, Videos, Forums,etc)
+* [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 
 ----------------------------
 
