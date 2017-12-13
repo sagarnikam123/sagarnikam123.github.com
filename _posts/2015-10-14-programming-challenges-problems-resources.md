@@ -14,7 +14,6 @@ tags: [resources,problems,challenges]
 * [CodeChef](http://www.codechef.com/ "Codechef homepage")
 * [Hacker Earth](https://www.hackerearth.com/)
 * [Hacker Rank](https://www.hackerrank.com)
-* [Devpost](http://devpost.com/ "Devpost")
 * [Techgig](http://www.techgig.com/codecontest "Techgig homepage")
 * [Sphere online judge](http://www.spoj.com/ "Sphere online judge homepage")
 * [codingbat](http://codingbat.com/ "CodingBat homepage")
@@ -29,16 +28,22 @@ tags: [resources,problems,challenges]
 * [Talent Buddy](https://www.talentbuddy.co/)
 * [Pex4Fun](http://www.pexforfun.com/)
 * [PKU JudgeOnline](http://poj.org/)
-* [Timus Onlnie judge](http://acm.timus.ru/)
-* [LeetCode Online Judge](https://leetcode.com/)
+* [Timus Online judge](http://acm.timus.ru/)
+* [LeetCode](https://leetcode.com/)
 * [Reddit-Daily Programmer](http://www.reddit.com/r/dailyprogrammer)
 * [Reddit-ProgrammingChallenges](https://www.reddit.com/r/programmingchallenges)
 * [Rank](http://www.rankk.org) [Mathematics, Logic, Puzzle, cryptography, Steganography, CGI Security]
+* [CodeFights](https://codefights.com/) [Challenge bots, Interview prep, Tournaments, practice coding skills]
+* [Skillenza](https://skillenza.com/)
+* [Edabit](https://edabit.com/)
+* [Codela](https://www.codela.net)
+* [CodeWars](https://www.codewars.com/)
+* [Kattis](https://open.kattis.com/)
+* [Stockroom](https://stockroom.io/)
 
 -----
 
 #### Competition
-
 * [Google code jam](https://code.google.com/codejam/ "Code Jam homepage")
 * [Al Zimmermann's Programming Contests](http://www.azspcs.net/)
 * [Xodia](http://xodia.pythonanywhere.com/xodialatest/) 
@@ -53,16 +58,16 @@ tags: [resources,problems,challenges]
 * [ICFP Programming Contest](http://icfpcontest.org/)
 * [The Loebner Prize in Artificial Intelligence](http://www.loebner.net/Prizef/loebner-prize.html)
 * [Chatterbox Challenge ](http://www.chatterboxchallenge.com/)
-* [Microsoft Imagine cup](https://www.imaginecup.com/)
-* [Hatch-Stockroom](http://hatch.stockroom.io/)
+* [Microsoft Imagine cup](https://imagine.microsoft.com/)
 * [Unicom learning contests](http://www.unicomlearning.com/contests.html)
+* [Hutter Prize](http://prize.hutter1.net/index.htm) (Compressing Human Knowledge)
 
 -----
 
 #### Hackathon
 * [Hackathon.io](http://www.hackathon.io/events)
 * [Hackerleague](https://www.hackerleague.org/hackathons)
-* [Devpost-Hackathon](http://devpost.com/hackathons)
+* [Devpost](https://devpost.com/hackathons)
 * [Angelhack](http://angelhack.com/events/)
 * [NY-Hackathons](http://nyhackathons.com/)
 * [mlh.io](https://mlh.io/seasons/s2015/events)
@@ -117,13 +122,21 @@ tags: [resources,problems,challenges]
 * [Gov Challenge](https://www.challenge.gov/list/)
 * [KDD](http://www.kdd.org/kdd-cup)
 * [DataKind](http://www.datakind.org/) (data science)
+* [Halite AI](https://halite.io/) (AI prog challenges- build bots)
+* [Knowledgepit](https://knowledgepit.fedcsis.org/) (data mining challenges)
 
 -----
+
+#### coding with Games
+* [The AI games](http://theaigames.com/) (code your own bot)
+* [Codingame](https://www.codingame.com)
+
+------
 
 #### Others
 * [Planet source code](http://www.planet-source-code.com/) [Already submitted problem]
 * [Happy coding](http://happycodings.com/) [Problems statement & code]
-* [Coder Dojo](https://coderdojo.com/ ) [For little childrem]
+* [Coder Dojo](https://coderdojo.com/ ) [For little children]
 * [Code Golf](http://codegolf.com/ "Code Golf home page")
 * [Simple programming problems](http://adriann.github.io/programming_problems.html)
 * [Mozilla Openbadges](https://backpack.openbadges.org/backpack/login)
