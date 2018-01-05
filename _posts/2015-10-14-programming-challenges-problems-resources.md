@@ -68,9 +68,9 @@ tags: [resources,problems,challenges]
 * [Hackathon.io](http://www.hackathon.io/events)
 * [Hackerleague](https://www.hackerleague.org/hackathons)
 * [Devpost](https://devpost.com/hackathons)
-* [Angelhack](http://angelhack.com/events/)
+* [Angelhack](http://angelhack.com/)
 * [NY-Hackathons](http://nyhackathons.com/)
-* [mlh.io](https://mlh.io/seasons/s2015/events)
+* [mlh.io](https://mlh.io/)
 * [Fiware](https://www.fiware.org/events/)
 * [Japacible-Hackathon calendar](https://github.com/japacible/Hackathon-Calendar)
 
@@ -127,9 +127,16 @@ tags: [resources,problems,challenges]
 
 -----
 
-#### coding with Games
+#### Learn coding while playing Games
+* [Check IO](https://checkio.org/) (Python & Javascript)
+* [Game of Hacks](http://www.gameofhacks.com/) (application hacking)
+* [Vim-Adventures](https://vim-adventures.com/) (Learn Vim)
+* [Code Combat](https://codecombat.com/) (programming)
 * [The AI games](http://theaigames.com/) (code your own bot)
 * [Codingame](https://www.codingame.com)
+* [Screeps](https://screeps.com/) (open-source sandbox MMO RTS game for programmers)
+* [Robocode](http://robocode.sourceforge.net/) (develop a robot battle tank)
+* [Xodia](http://xodia.pythonanywhere.com/)
 
 ------
 
@@ -140,6 +147,7 @@ tags: [resources,problems,challenges]
 * [Code Golf](http://codegolf.com/ "Code Golf home page")
 * [Simple programming problems](http://adriann.github.io/programming_problems.html)
 * [Mozilla Openbadges](https://backpack.openbadges.org/backpack/login)
+* [Coders Crowd](http://coderscrowd.com/app/public/home) (share your coding problem, ask review, connect with Programmers)
 
 ----
 
@@ -156,7 +164,6 @@ tags: [resources,problems,challenges]
 ----
 
 #### Code repository
-* [Coders Crowd](http://coderscrowd.com/app/public/home)
 * [Code Player](http://thecodeplayer.com/)
 
 ----
