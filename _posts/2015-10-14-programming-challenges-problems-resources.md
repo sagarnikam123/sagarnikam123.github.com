@@ -11,12 +11,12 @@ tags: [resources,problems,challenges]
 #### Submit problems & Monthly Challenges
 > Try experimenting by submitting your code & get result instantly.
 
-* [CodeChef](http://www.codechef.com/ "Codechef homepage")
 * [Hacker Earth](https://www.hackerearth.com/)
 * [Hacker Rank](https://www.hackerrank.com)
+* [CodeChef](http://www.codechef.com/ "Codechef homepage")
 * [Techgig](http://www.techgig.com/codecontest "Techgig homepage")
 * [Sphere online judge](http://www.spoj.com/ "Sphere online judge homepage")
-* [codingbat](http://codingbat.com/ "CodingBat homepage")
+
 * [ProgrammR](http://www.programmr.com/ "ProgrammR homepage")
 * [Top Coder](http://www.topcoder.com/ "Top coder homepage")
 * [Challenge Post](http://challengepost.com/)
@@ -40,7 +40,6 @@ tags: [resources,problems,challenges]
 * [CodeWars](https://www.codewars.com/)
 * [Kattis](https://open.kattis.com/)
 * [Stockroom](https://stockroom.io/)
-* [Quora-challenges](https://www.quora.com/challenges)
 
 -----
 
@@ -98,16 +97,18 @@ tags: [resources,problems,challenges]
 * [IPCC-ACM](https://icpc.baylor.edu/)
 * [SSU-ACM](http://acm.sgu.ru/)
 * [Google code jam](https://code.google.com/codejam/contests.html)
-* [Clopinet](http://clopinet.com/challenges/) (Machine learning)
+* [Quora-challenges](https://www.quora.com/challenges)
 
 -----
 
 #### Problems Hub - domain specific (Archive)
 * [Python Challenge](http://www.pythonchallenge.com/ )
+* [codingbat](http://codingbat.com/ "CodingBat homepage") (Java & Python)
+* [Rosalind](http://rosalind.info/problems/locations/) [Bioinformatics & Python]
 * [Challenges in Mahine learning](http://www.chalearn.org/)
-* [Rosalind](http://rosalind.info/problems/locations/) [Bioinformatics]
 * [RubyQuiz](http://rubyquiz.com/)
 * [4Clojure](http://www.4clojure.com/)
+* [Clopinet](http://clopinet.com/challenges/) (Machine learning)
 
 -----
 
