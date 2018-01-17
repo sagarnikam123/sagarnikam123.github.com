@@ -64,6 +64,7 @@ tags: [resources,problems,challenges]
 * [Hutter Prize](http://prize.hutter1.net/index.htm) (Compressing Human Knowledge)
 * [The International Obfuscated C Code Contest](http://www.ioccc.org/) (C)
 * [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
+* [KDD](http://www.kdd.org/kdd-cup) (Data Mining and Knowledge Discovery)
 
 -----
 
@@ -110,21 +111,19 @@ tags: [resources,problems,challenges]
 
 -----
 
-#### domain specific challenges
+#### domain specific contests
 * [Hackster](https://www.hackster.io/challenges) (Hardware contests)
+* [Halite AI](https://halite.io/) (AI-bots)
 * [Datahack-AnalyticsVidhya](http://datahack.analyticsvidhya.com/contest/all) (Data Science)
 * [Kaggle](https://www.kaggle.com/) (Data science)
 * [DrivenData](https://www.drivendata.org/) (Data science)
 * [TunedIT](http://tunedit.org/challenges) (data mining)
 * [Crowdanalytix](https://www.crowdanalytix.com/listContests) (AI, NLP & Machine Learning)
 * [Databits](http://databits.io/challenges/opensource) (Data Science)
-* [Innocentive](https://www.innocentive.com) (All industries)
 * [Dream Challenges](http://dreamchallenges.org/) (biology & medicine)
-* [HackDay](https://hackaday.io/prize) (Design concept)
+* [HackDay](https://hackaday.io/) (All industries)
+* [Innocentive](https://www.innocentive.com) (All industries)
 * [Gov Challenge](https://www.challenge.gov/list/)
-* [KDD](http://www.kdd.org/kdd-cup)
-* [DataKind](http://www.datakind.org/) (data science)
-* [Halite AI](https://halite.io/) (bots)
 
 -----
 
@@ -149,6 +148,7 @@ tags: [resources,problems,challenges]
 * [Simple programming problems](http://adriann.github.io/programming_problems.html)
 * [Mozilla Openbadges](https://backpack.openbadges.org/backpack/login)
 * [Coders Crowd](http://coderscrowd.com/app/public/home) (share your coding problem, ask review, connect with Programmers)
+* [DataKind](http://www.datakind.org/) (data science)
 
 ----
 
