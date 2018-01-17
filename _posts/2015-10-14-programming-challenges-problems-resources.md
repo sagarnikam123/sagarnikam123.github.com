@@ -40,6 +40,7 @@ tags: [resources,problems,challenges]
 * [CodeWars](https://www.codewars.com/)
 * [Kattis](https://open.kattis.com/)
 * [Stockroom](https://stockroom.io/)
+* [Quora-challenges](https://www.quora.com/challenges)
 
 -----
 
@@ -61,6 +62,8 @@ tags: [resources,problems,challenges]
 * [Microsoft Imagine cup](https://imagine.microsoft.com/)
 * [Unicom learning contests](http://www.unicomlearning.com/contests.html)
 * [Hutter Prize](http://prize.hutter1.net/index.htm) (Compressing Human Knowledge)
+* [The International Obfuscated C Code Contest](http://www.ioccc.org/) (C)
+* [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
 
 -----
 
@@ -76,7 +79,7 @@ tags: [resources,problems,challenges]
 
 -----
 
-#### Problems Hub
+#### Problems Hub (Archive)
 * [Project Euler](https://projecteuler.net/ "Project Euler homepage")
 * [Programming Praxis](http://programmingpraxis.com/)
 * [URI online judge](https://www.urionlinejudge.com.br/judge/login)
@@ -94,36 +97,34 @@ tags: [resources,problems,challenges]
 * [IPCC-ACM](https://icpc.baylor.edu/)
 * [SSU-ACM](http://acm.sgu.ru/)
 * [Google code jam](https://code.google.com/codejam/contests.html)
+* [Clopinet](http://clopinet.com/challenges/) (Machine learning)
+
+-----
+
+#### Problems Hub - domain specific (Archive)
+* [Python Challenge](http://www.pythonchallenge.com/ )
+* [Challenges in Mahine learning](http://www.chalearn.org/)
+* [Rosalind](http://rosalind.info/problems/locations/) [Bioinformatics]
+* [RubyQuiz](http://rubyquiz.com/)
+* [4Clojure](http://www.4clojure.com/)
 
 -----
 
 #### domain specific challenges
-* [Cplus aboutTech](http://cplus.about.com/od/programmingchallenges/ "C,C++,C# Challenges") [C,C++,C# Challenges]
-* [Python Challenge](http://www.pythonchallenge.com/ )
-* [Challenges in Mahine learning](http://www.chalearn.org/)
-* [Rosalind](http://rosalind.info/problems/locations/) [Bioinformatics]
-* [Ruby Programming Challenge for Newbies](http://ruby-challenge.rubylearning.org/)
-* [RubyQuiz](http://rubyquiz.com/)
-* [The International Obfuscated C Code Contest](http://www.ioccc.org/) (C)
-* [4Clojure](http://www.4clojure.com/)
-* [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
-* [Hackster](https://www.hackster.io/challenges) (IoT challenges)
+* [Hackster](https://www.hackster.io/challenges) (Hardware contests)
 * [Datahack-AnalyticsVidhya](http://datahack.analyticsvidhya.com/contest/all) (Data Science)
-* [Databits](http://databits.io/challenges/opensource) (Data Science)
 * [Kaggle](https://www.kaggle.com/) (Data science)
 * [DrivenData](https://www.drivendata.org/) (Data science)
-* [Clopinet](http://clopinet.com/challenges/) (Machine learning)
-* [TunedIT](http://tunedit.org/challenges) (Data science)
-* [Crowdanalytix](https://www.crowdanalytix.com/listContests)
+* [TunedIT](http://tunedit.org/challenges) (data mining)
+* [Crowdanalytix](https://www.crowdanalytix.com/listContests) (AI, NLP & Machine Learning)
+* [Databits](http://databits.io/challenges/opensource) (Data Science)
 * [Innocentive](https://www.innocentive.com) (All industries)
-* [Quora-challenges](https://www.quora.com/challenges)
 * [Dream Challenges](http://dreamchallenges.org/) (biology & medicine)
 * [HackDay](https://hackaday.io/prize) (Design concept)
 * [Gov Challenge](https://www.challenge.gov/list/)
 * [KDD](http://www.kdd.org/kdd-cup)
 * [DataKind](http://www.datakind.org/) (data science)
-* [Halite AI](https://halite.io/) (AI prog challenges- build bots)
-* [Knowledgepit](https://knowledgepit.fedcsis.org/) (data mining challenges)
+* [Halite AI](https://halite.io/) (bots)
 
 -----
 
