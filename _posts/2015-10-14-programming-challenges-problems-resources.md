@@ -16,7 +16,6 @@ tags: [resources,problems,challenges]
 * [CodeChef](http://www.codechef.com/ "Codechef homepage")
 * [Techgig](http://www.techgig.com/codecontest "Techgig homepage")
 * [Sphere online judge](http://www.spoj.com/ "Sphere online judge homepage")
-
 * [ProgrammR](http://www.programmr.com/ "ProgrammR homepage")
 * [Top Coder](http://www.topcoder.com/ "Top coder homepage")
 * [Challenge Post](http://challengepost.com/)
@@ -30,8 +29,6 @@ tags: [resources,problems,challenges]
 * [PKU JudgeOnline](http://poj.org/)
 * [Timus Online judge](http://acm.timus.ru/)
 * [LeetCode](https://leetcode.com/)
-* [Reddit-Daily Programmer](http://www.reddit.com/r/dailyprogrammer)
-* [Reddit-ProgrammingChallenges](https://www.reddit.com/r/programmingchallenges)
 * [Rank](http://www.rankk.org) [Mathematics, Logic, Puzzle, cryptography, Steganography, CGI Security]
 * [CodeFights](https://codefights.com/) [Challenge bots, Interview prep, Tournaments, practice coding skills]
 * [Skillenza](https://skillenza.com/)
@@ -98,7 +95,7 @@ tags: [resources,problems,challenges]
 * [SSU-ACM](http://acm.sgu.ru/)
 * [Google code jam](https://code.google.com/codejam/contests.html)
 * [Quora-challenges](https://www.quora.com/challenges)
-
+* [Daily Programmer-Reddit](https://www.reddit.com/r/dailyprogrammer/)
 -----
 
 #### Problems Hub - domain specific (Archive)
