@@ -96,6 +96,7 @@ tags: [resources,problems,challenges]
 * [Google code jam](https://code.google.com/codejam/contests.html)
 * [Quora-challenges](https://www.quora.com/challenges)
 * [Daily Programmer-Reddit](https://www.reddit.com/r/dailyprogrammer/)
+
 -----
 
 #### Problems Hub - domain specific (Archive)
