@@ -59,22 +59,59 @@ tags: [resources,problems,challenges]
 * [Unicom learning contests](http://www.unicomlearning.com/contests.html)
 * [Hutter Prize](http://prize.hutter1.net/index.htm) (Compressing Human Knowledge)
 * [The International Obfuscated C Code Contest](http://www.ioccc.org/) (C)
-* [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
-* [KDD](http://www.kdd.org/kdd-cup) (Data Mining and Knowledge Discovery)
 
 -----
 
 #### Hackathon
 * [Hackathon.io](http://www.hackathon.io/events)
+* [VR Hackathon](http://vrhackathon.web3d.org/)
 * [Hackerleague](https://www.hackerleague.org/hackathons)
+* [Queens Hack](https://queenshack.nyc/)
 * [Devpost](https://devpost.com/hackathons)
 * [Angelhack](http://angelhack.com/)
 * [NY-Hackathons](http://nyhackathons.com/)
 * [mlh.io](https://mlh.io/)
 * [Fiware](https://www.fiware.org/events/)
+* [Start hack](https://starthack.ch/)
+* [Tribe Hacks](http://www.tribehacks.com/)
+* [Hack Princeton](https://hackprinceton.com/)
+* [Hackgsu](http://hackgsu.com/)
+* [DefHacks](http://defhacks.io/)
+* [WearHacks](http://waterloo.wearhacks.com/index.html)
+* [Grizzhacks](http://grizzhacks.com/)
+* [Base ball Hackday](http://www.baseballhackday.com/)
+* [Hack BCA](http://hackbca.com/)
+* [Panther Hacks](http://pantherhacks.org/)
+* [Bit Camp](http://bit.camp/)
+* [Hack DFW](https://hackdfw.com/)
+* [Hack Ru](http://www.hackru.org/)
+* [Hack UST](http://hack.ust.hk/)
+* [Uncommon hacks](https://uncommonhacks.com/)
+* [Metro Hacks](https://metrohacks.org/)
+* [Cycle Hack](http://cyclehackberlin.de/)
+* [Makerthon](https://makerthonmelbourne.com/)
+
+* [Hacks MHS](http://hackmhs.com/)
+* [Conu Hacks](https://conuhacks.io/)
+* [Messey Hacks](https://masseyhacks.ca/)
 * [Japacible-Hackathon calendar](https://github.com/japacible/Hackathon-Calendar)
 
 -----
+
+#### Data science, AI, Machine learning
+* [Kaggle](https://www.kaggle.com/) (Data science)
+* [DrivenData](https://www.drivendata.org/) (Data science)
+* [Databits](http://databits.io/challenges/opensource) (Data Science)
+* [Analytics Vidhya](https://www.analyticsvidhya.com/) (Data Science)
+* [TunedIT](http://tunedit.org/challenges) (data mining)
+* [Crowdanalytix](https://www.crowdanalytix.com/listContests) (AI, NLP & Machine Learning)
+* [Halite AI](https://halite.io/) (AI-bots)
+* [Knowledge Pit ](https://knowledgepit.fedcsis.org/) (Data Challenge)
+* [KDD](http://www.kdd.org/kdd-cup) (Data Mining and Knowledge Discovery)
+* [Challenges in Mahine learning](http://www.chalearn.org/)
+* [Gov Challenge](https://www.challenge.gov/list/)
+
+------
 
 #### Problems Hub (Archive)
 * [Project Euler](https://projecteuler.net/ "Project Euler homepage")
@@ -86,7 +123,6 @@ tags: [resources,problems,challenges]
 * [IARCS Problems Archive](http://opc.iarcs.org.in/ "IARCS Problems Archive homepage")
 * [Indian Computing Olympiad](http://www.iarcs.org.in/inoi/archives.php)
 * [International Olympiad in informatics](http://ioinformatics.org/index.shtml "International Olympiad in informatics")
-* [Daily programmer-reddit](http://www.reddit.com/r/dailyprogrammer)
 * [Hacker](http://www.hacker.org/)
 * [ACM International Collegiate programming contest](http://acm.hit.edu.cn/judge/ProblemIndex.php)
 * [CareerCup](http://www.careercup.com/)
@@ -103,26 +139,16 @@ tags: [resources,problems,challenges]
 * [Python Challenge](http://www.pythonchallenge.com/ )
 * [codingbat](http://codingbat.com/ "CodingBat homepage") (Java & Python)
 * [Rosalind](http://rosalind.info/problems/locations/) [Bioinformatics & Python]
-* [Challenges in Mahine learning](http://www.chalearn.org/)
 * [RubyQuiz](http://rubyquiz.com/)
 * [4Clojure](http://www.4clojure.com/)
-* [Clopinet](http://clopinet.com/challenges/) (Machine learning)
 
 -----
 
 #### domain specific contests
 * [Hackster](https://www.hackster.io/challenges) (Hardware contests)
-* [Halite AI](https://halite.io/) (AI-bots)
-* [Datahack-AnalyticsVidhya](http://datahack.analyticsvidhya.com/contest/all) (Data Science)
-* [Kaggle](https://www.kaggle.com/) (Data science)
-* [DrivenData](https://www.drivendata.org/) (Data science)
-* [TunedIT](http://tunedit.org/challenges) (data mining)
-* [Crowdanalytix](https://www.crowdanalytix.com/listContests) (AI, NLP & Machine Learning)
-* [Databits](http://databits.io/challenges/opensource) (Data Science)
 * [Dream Challenges](http://dreamchallenges.org/) (biology & medicine)
 * [HackDay](https://hackaday.io/) (All industries)
 * [Innocentive](https://www.innocentive.com) (All industries)
-* [Gov Challenge](https://www.challenge.gov/list/)
 
 -----
 
