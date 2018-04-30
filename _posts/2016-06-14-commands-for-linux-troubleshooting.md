@@ -11,12 +11,12 @@ tags: [troubleshooting, commands]
 
 ##### Check to see if the server is listening on the host:
 ```
-lsof -i :8080
+sudo lsof -i :8080
 
-fuser 9092/tcp
-fuser -n tcp 9092
+sudo fuser 9092/tcp
+sudo fuser -n tcp 9092
 
-netstat -ant | grep :2181
+sudo netstat -ant | grep :2181
 sudo netstat -peanut | grep ":5140"
 ```
 
