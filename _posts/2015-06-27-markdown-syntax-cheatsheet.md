@@ -474,7 +474,7 @@ M\*A\*S\*H
 
 ---
 
-#### Font colors
+> #### Font colors
 
 <span data-highlight-class="X">TEXT</span>
 
@@ -494,5 +494,17 @@ na
 no
 nv
 </pre>
+
+---
+
+> #### Checkbox
+
+- [x] A
+- [ ] B
+- [x] C
+
+	- [x] A
+	- [ ] B
+	- [x] C
 
 ---
