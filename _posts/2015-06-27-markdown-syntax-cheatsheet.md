@@ -52,15 +52,15 @@ Header 2
 
 # H1
 
-## H2  
+## H2
 
-### H3  
+### H3
 
-#### H4  
+#### H4
 
-##### H5  
+##### H5
 
-###### H6   
+###### H6
 
 	# H1
 	## H2
@@ -75,25 +75,25 @@ Header 2
 
 > #### Ordered (without paragraphs)
 
-1.  One  
-2.  Two  
+1.  One
+2.  Two
 
 
-	    1.  One  
+	    1.  One
 		2.  Two
 
 ---
 
 > #### Unordered (with paragraphs)
 
-* A lst item.  
-With multiple paragraphs.  
+* A lst item.
+With multiple paragraphs.
 Second line.
 * Bar
 
 
-		* A lst item.  
-		With multiple paragraphs.  
+		* A lst item.
+		With multiple paragraphs.
 		Second line.
 		* Bar
 
@@ -110,10 +110,10 @@ Use chars like plus `+`, minus `-`, asterik `*` & roman digits `iv`.
 * Bubbles
   1.  bunk
   2.  bupkis
-      * BELITTLER  
+      * BELITTLER
   3. burper
-* Cunning  
-  i. Roman value.	  
+* Cunning
+  i. Roman value.
   ii. Second value.
 
 
@@ -124,10 +124,10 @@ Use chars like plus `+`, minus `-`, asterik `*` & roman digits `iv`.
 		* Bubbles
 		  1.  bunk
 		  2.  bupkis
-			  * BELITTLER  
+			  * BELITTLER
 		  3. burper
-		* Cunning  
-		  i. Roman value.	  
+		* Cunning
+		  i. Roman value.
 		  ii. Second value.
 
 ---
@@ -135,7 +135,7 @@ Use chars like plus `+`, minus `-`, asterik `*` & roman digits `iv`.
 ## Manual Line Breaks
 End a line with **two or more spaces**.
 
-Roses are red,  
+Roses are red,
 Violets are blue.
 
 	Roses are red,
@@ -173,9 +173,9 @@ A [Yahoo][2] Link. Look at below reference ids for their association.
 
 Or leave it empty and use direct [Wikipedia]
 
-  [1]: https://www.google.co.in/ "Google India"
-  [2]: https://in.yahoo.com/ "Yahoo India"
-  [Wikipedia]: http://en.wikipedia.org/wiki/Main_Page
+[1]: https://www.google.co.in/ "Google India"
+[2]: https://in.yahoo.com/ "Yahoo India"
+[Wikipedia]: http://en.wikipedia.org/wiki/Main_Page
 
 
 	A [Google][1] Link. Then, anywhere
@@ -254,18 +254,18 @@ System.out.println("Hello World !");
 
 * add type of language after backticks
 
-		var s = "JavaScript syntax highlighting";
-		alert(s);
-		
-		
-<pre>```javascript	`  		
+```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-</pre>
-	
+
+    ```javascript
+    var s = "JavaScript syntax highlighting";
+    alert(s);
+	```
+
 ---
-	
+
 > #### Pre-Formatted (monospace) text
 
 <pre>Use pre tags to format a paragraph or sentence as monospaced text.</pre>
@@ -287,7 +287,7 @@ alert(s);
 
 > #### Reference-style
 
-![alternative text 4 Google logo](1)  
+![alternative text 4 Google logo](1)
 ![Wikipedia](2)
 
 [1]: https://www.google.co.in/images/srpr/logo11w.png "Google Logo"
@@ -296,7 +296,7 @@ alert(s);
 
 	![alternative text 4 Google logo](1)
 	![Wikipedia](2)
-	
+
 	[1]: https://www.google.co.in/images/srpr/logo11w.png "Google Logo"
 	[2]: http://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg "Wikipedia logo"
 
@@ -308,19 +308,19 @@ alert(s);
 
 ---
 * * *
-- - - - 
+- - - -
 
 
 	---
 	* * *
-	- - - - 
+	- - - -
 
 ---
 
 ## Tables
 
 * Use colon **`:`** within the header row.
-* You can define text to be left-aligned, right-aligned or center-aligned.  
+* You can define text to be left-aligned, right-aligned or center-aligned.
 
 ---
 
@@ -328,8 +328,8 @@ alert(s);
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |  
-  
+| zebra stripes | are neat        |    $1 |
+
 ---
 
 <pre>
@@ -388,21 +388,21 @@ Markdown | Less      | Pretty
 
 ## Videos
 
-* Supports **Youtube** & **Dailymotion** videos (Others are supported if direct URL to to video, ending with .mp4 .3gp etc.)  
+* Supports **Youtube** & **Dailymotion** videos (Others are supported if direct URL to to video, ending with .mp4 .3gp etc.)
 * can't be added directly but you can add an image with a link to the video as 
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 	<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-	" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+	" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
 	alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
-Or, in pure Markdown, but losing the image sizing and border:  
+Or, in pure Markdown, but losing the image sizing and border:
 * replace ` BZhWUE1A198 ` with your uTube video id.
 * You can use ` 0.jpg / 1.jpg / 2.jpg / 3.jpg / 4.jpg. `
 
@@ -442,15 +442,15 @@ H<sub>2</sub>O
 
 > #### Scratch/Strikethrough
 
-~~Scratch this.~~ 
+~~Scratch this.~~
 
-or 
+or
 
 ~~strikethrough~~
 
 <pre>
-~~Scratch this.~~ 
-or 
+~~Scratch this.~~
+or
 ~~strikethrough~~
 </pre>
 
@@ -464,13 +464,13 @@ M\*A\*S\*H
 
 ---
 
-> #### Emoji 
+> #### Emoji
 
-[Emoji cheatsheet](http://www.emoji-cheat-sheet.com/ "Emoji Cheatsheet") 
+[Emoji cheatsheet](http://www.emoji-cheat-sheet.com/ "Emoji Cheatsheet")
 
-:joy:  :heart_eyes:  :stuck_out_tongue_winking_eye:  :octocat: 
+:joy:  :heart_eyes:  :stuck_out_tongue_winking_eye:  :octocat:
 
-	:joy:  :heart_eyes: :stuck_out_tongue_winking_eye:  :octocat: 
+	:joy:  :heart_eyes: :stuck_out_tongue_winking_eye:  :octocat:
 
 ---
 
@@ -479,7 +479,7 @@ M\*A\*S\*H
 <span data-highlight-class="X">TEXT</span>
 
 	<span data-highlight-class="X">TEXT</span>
-	
+
 * replace 'X' with letter below
 
 <pre>
@@ -510,3 +510,7 @@ nv
 ```
 
 ---
+
+```
+
+```
