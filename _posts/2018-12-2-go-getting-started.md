@@ -20,7 +20,7 @@ tags: [golang, gotools,gpextension,]
       - ```
         go get -u github.com/nsf/gocode
         ```
-    - [guru](https://godoc.org/golang.org/x/tools/cmd/guru) - a tool for answering questions about Go source cod (for goclipse/Eclipse)
+    - [guru](https://godoc.org/golang.org/x/tools/cmd/guru) - a tool for answering questions about Go source code (for goclipse/Eclipse)
 
       - ```
         go get -u golang.org/x/tools/cmd/guru 
