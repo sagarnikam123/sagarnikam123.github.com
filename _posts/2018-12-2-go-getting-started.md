@@ -13,7 +13,7 @@ tags: [golang, gotools,gpextension,]
 - ### packages/extension
 
 
-  - For Text editors
+  - **For Text editors**
 
     - [gocode](https://godoc.org/golang.org/x/tools/cmd/guru) - autocompletion for Go in text editors
 
@@ -24,4 +24,11 @@ tags: [golang, gotools,gpextension,]
 
       - ```
         go get -u golang.org/x/tools/cmd/guru 
+        ```
+
+  - **For Learning go**
+
+    - [tour](https://github.com/golang/tour) - A Tour of Go (introduction to the Go programming language, offline)
+      - ```
+        go get golang.org/x/tour
         ```
