@@ -15,7 +15,6 @@ tags: [golang, gotools, gpextension,]
         # extract
         sudo tar -xvzf go1.16.4.linux-amd64.tar.gz -C /usr/local/
         ```
-
   - export path
 
       - ```bash
@@ -23,6 +22,7 @@ tags: [golang, gotools, gpextension,]
         export GOROOT=/usr/local/go
         export GOPATH=$HOME/go
         export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+        ```
 
 - #### packages/extension
 
