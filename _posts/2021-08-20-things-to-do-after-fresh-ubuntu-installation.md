@@ -8,11 +8,9 @@ tags: [ubuntu, installation, softwares, guide]
 {% include JB/setup %}
 
 
-# Things to do after fresh Ubuntu installation
-
 After installing a fresh LTS version of Ubuntu, you need to do a minimum installation of softwares for development or for entertainment purpose. Here is a list for the same
 
-- ##### remove snapstore & make default ubuntu software store
+- **remove snapstore & make default ubuntu software store**
 
   ```bash
   # check for installed snap packages
@@ -27,7 +25,7 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   sudo rm -fr ~/snap
   ```
 
-- ##### install media codecs & vlc
+- **install media codecs & vlc**
 
   ```bash
   sudo apt install ubuntu-restricted-extras
@@ -35,19 +33,19 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   sudo apt-get install vlc
   ```
 
-- ##### remove mail client
+- **remove mail client**
 
   ```bash
   sudo apt-get purge thunderbird*
   ```
 
-- ##### install package updates
+- **install package updates**
 
   ```bash
   sudo apt-get update && sudo apt-get dist-upgrade
   ```
 
-- ##### download from sites
+- **download from sites**
 
   - [Google Chrome](https://www.google.com/chrome/)
   - [Visual studio code](https://code.visualstudio.com/download)
@@ -56,7 +54,7 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   - [Oracle Java JDK (LTS)](https://www.oracle.com/java/technologies/javase-downloads.html)
   - [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/)
 
-- ##### install & configure (export path variables to .bashrc)
+- **install & configure (export path variables to .bashrc)**
 
   - Java
 
@@ -87,20 +85,31 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
     ```
 
-- ##### install additional archieve utilities
+- **install additional archieve utilities**
 
   ```bash
   sudo apt install rar unrar p7zip-full p7zip-rar
   ```
 
 
-- ##### install gnome tweaks
+- **install & configure open-ssh**
+
+  ```bash
+  sudo apt-get install openssh-client
+  sudo apt-get install openssh-server
+  # generate ssh keys
+  ssh-keygen
+  # enable SSH access to local machine
+  cat $HOME/.ssh/id_rsa.pub >> $HOME/.ssh/authorized_keys
+  ```
+
+- **install gnome tweaks**
 
   ```bash
   sudo apt install gnome-tweaks
   ```
 
-- ##### install Markdown (Typora)
+- **install Markdown (Typora)**
 
   ```bash
   wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
@@ -111,7 +120,17 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   sudo apt-get install typora
   ```
   
-- ##### other to do things
+- **configure git**
+
+  
+    - [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+    
+    ```bash
+    git config --global user.email <you@example.com>
+    git config --global user.name <Your Name>
+    ```
+    
+- **other things to do**
 
     - enable Night Light mode (Settings - > Display -> Night Light tab)
     - select default apps (Settings -> Default Applications)
