@@ -3,15 +3,28 @@ layout: post
 title: "Go getting started (draft)"
 description: "From Golang installtion, code, tools, etc"
 category: [learning,programming, go]
-tags: [golang, gotools,gpextension,]
+tags: [golang, gotools, gpextension,]
 ---
 {% include JB/setup %}
 
+- #### install & configure
 
+  - [go download](https://golang.org/dl/)
 
+      - ```bash
+        # extract
+        sudo tar -xvzf go1.16.4.linux-amd64.tar.gz -C /usr/local/
+        ```
 
-- ### packages/extension
+  - export path
 
+      - ```bash
+        # path
+        export GOROOT=/usr/local/go
+        export GOPATH=$HOME/go
+        export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+
+- #### packages/extension
 
   - **For Text editors**
 
