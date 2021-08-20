@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sagar Nikam blog
-tagline: Where freedom comes true...
+title: Sagar Nikam
+tagline: notes
 ---
 {% include JB/setup %}
 
