@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Azad Parinda
+title: Sagar Nikam blog
 tagline: Where freedom comes true...
 ---
 {% include JB/setup %}
