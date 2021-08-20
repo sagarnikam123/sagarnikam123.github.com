@@ -18,7 +18,6 @@ tags: [golang, gotools, gpextension,]
   - export path
 
       - ```bash
-        # path
         export GOROOT=/usr/local/go
         export GOPATH=$HOME/go
         export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
