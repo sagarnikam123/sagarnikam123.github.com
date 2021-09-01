@@ -25,12 +25,13 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   sudo rm -fr ~/snap
   ```
 
-- **install media codecs & vlc**
+- **install media codecs, vlc, FFmpeg**
 
   ```bash
   sudo apt install ubuntu-restricted-extras
   sudo apt-get update
   sudo apt-get install vlc
+  sudo apt-get install ffmpeg
   ```
 
 - **remove mail client**
@@ -50,9 +51,11 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   - [Google Chrome](https://www.google.com/chrome/)
   - [Visual studio code](https://code.visualstudio.com/download)
   - [Dropbox](https://www.dropbox.com/install-linux)
-  - [Eclipse](https://www.eclipse.org/downloads/packages/)
   - [Oracle Java JDK (LTS)](https://www.oracle.com/java/technologies/javase-downloads.html)
-  - [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/)
+  - [Eclipse](https://www.eclipse.org/downloads/packages/)
+  - [Skype](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
+  - [Zoom client](https://zoom.us/download)
+  - [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/) (PyCharm & IntelliJ)
 
 - **install & configure (export path variables to .bashrc)**
 
