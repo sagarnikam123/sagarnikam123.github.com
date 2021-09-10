@@ -87,6 +87,15 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
     export GOPATH=$HOME/go
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
     ```
+    
+  - Maven
+
+    ```bash
+    sudo tar -xvzf apache-maven-3.8.2-bin.tar.gz -C /opt/
+    # path
+    export M2_HOME=/opt/apache-maven-3.8.2
+    export PATH=$PATH:$M2_HOME/bin
+    ```
 
 - **install additional archieve utilities**
 
