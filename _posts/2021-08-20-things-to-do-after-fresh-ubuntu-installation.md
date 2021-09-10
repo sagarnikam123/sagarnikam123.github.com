@@ -134,15 +134,23 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   
 - **configure git**
 
-  
     - [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-    
+
     ```bash
     git config --global user.email <you@example.com>
     git config --global user.name <Your Name>
-    git config --global credential.helper manager
     ```
-    
+
+    - configure [git credential manager core](https://github.com/microsoft/Git-Credential-Manager-Core/) for PAT (Personel Access Token)
+
+    ```bash
+    git config --global credential.credentialStore plaintext
+    git config --global credential.plaintextStorePath </pathToPAT/pat/credentials>
+    # install
+    sudo dpkg -i <path-to-package.deb>
+    git-credential-manager-core configure
+    ```
+
 - **other things to do**
 
     - enable Night Light mode (Settings - > Display -> Night Light tab)
