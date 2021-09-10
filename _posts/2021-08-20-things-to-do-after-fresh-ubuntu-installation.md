@@ -140,6 +140,7 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
     ```bash
     git config --global user.email <you@example.com>
     git config --global user.name <Your Name>
+    git config --global credential.helper manager
     ```
     
 - **other things to do**
