@@ -87,7 +87,7 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
     export GOPATH=$HOME/go
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
     ```
-    
+
   - Maven
 
     ```bash
@@ -103,7 +103,6 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   sudo apt install rar unrar p7zip-full p7zip-rar
   ```
 
-
 - **install & configure open-ssh**
 
   ```bash
@@ -115,23 +114,24 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   cat $HOME/.ssh/id_rsa.pub >> $HOME/.ssh/authorized_keys
   ```
 
-- **install gnome tweaks**
+- **UNIX `ulimit` Settings**
 
-  ```bash
-  sudo apt install gnome-tweaks
-  ```
+  - "ulimits" prevent single users from using too many system resources such as threads, files, and network connections on a per-process and per-user basis
 
-- **install Markdown (Typora)**
+  - ```bash
+    # check
+    ulimit -a
+    # check limit for max number of open file descriptors
+    ulimit -Sn	# soft limit
+    ulimit -Hn  # hard limi
+    # increase Limit for Current Session
+    ulimit -n 200000
+    # permanently edit value for (nofile - max number of open file descriptors)
+    sudo gedit /etc/security/limits.conf
+    #* 	 soft     nofile         1024
+    #* 	 hard     nofile         200000
+    ```
 
-  ```bash
-  wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
-  # add Typora's repository
-  sudo add-apt-repository 'deb https://typora.io/linux ./'
-  sudo apt-get update
-  # install typora
-  sudo apt-get install typora
-  ```
-  
 - **configure git**
 
     - [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
@@ -150,6 +150,31 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
     sudo dpkg -i <path-to-package.deb>
     git-credential-manager-core configure
     ```
+
+- check which Init system using
+
+    ```bash
+    ps --no-headers -o comm 1
+    # systemd (which uses the systemctl command)
+    # System V init (which uses the service command)
+    ```
+
+- **install gnome tweaks**
+
+  ```bash
+  sudo apt install gnome-tweaks
+  ```
+
+- **install Markdown (Typora)**
+
+  ```bash
+  wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
+  # add Typora's repository
+  sudo add-apt-repository 'deb https://typora.io/linux ./'
+  sudo apt-get update
+  # install typora
+  sudo apt-get install typora
+  ```
 
 - **other things to do**
 
