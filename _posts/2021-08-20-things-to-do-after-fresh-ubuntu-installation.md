@@ -56,6 +56,8 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   - [Skype](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
   - [Zoom client](https://zoom.us/download)
   - [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/) (PyCharm & IntelliJ)
+  - [RStudio](https://www.rstudio.com/products/rstudio/download/)
+  - [MySQL JDBC connector](https://dev.mysql.com/downloads/connector/j/)
 
 - **install & configure (export path variables to .bashrc)**
 
@@ -112,6 +114,17 @@ After installing a fresh LTS version of Ubuntu, you need to do a minimum install
   ssh-keygen
   # enable SSH access to local machine
   cat $HOME/.ssh/id_rsa.pub >> $HOME/.ssh/authorized_keys
+  ```
+
+- **R install**
+
+  ```bash
+  sudo apt install r-base-core libcurl4-openssl-dev libssl-dev libxml2-dev
+  sudo apt install libmariadbclient-dev # for RMySQL
+  R
+  install.packages("devtools")
+  install.packages("rmarkdown")
+  install.packages("RMySQL")
   ```
 
 - **UNIX `ulimit` Settings**
