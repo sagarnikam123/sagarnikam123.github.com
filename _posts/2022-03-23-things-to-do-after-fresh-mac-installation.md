@@ -11,17 +11,21 @@ tags: [mac, installation, softwares, guide]
 After installing a fresh version of MacOS installation, you need to do a minimum installation of softwares for development or for entertainment purpose. Here is a list for the same
 
 - macOS version
+
   ```
   sw_vers
   ```
+
   ```
   system_profiler SPSoftwareDataType
   ```
+
   ```
   uname -a
   ```
 
 - install **[Homebrew](https://brew.sh/)** - a package manager for mac
+
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
@@ -51,7 +55,6 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   - [Slack](https://slack.com/intl/en-in/downloads/mac)
   - [Zoom client](https://zoom.us/download)
   - [Skype](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
-
   - [Dropbox](https://www.dropbox.com/downloading)
   - [RStudio](https://www.rstudio.com/products/rstudio/download/)
   - [MySQL JDBC connector](https://dev.mysql.com/downloads/connector/j/)
@@ -80,22 +83,23 @@ After installing a fresh version of MacOS installation, you need to do a minimum
 
 - **configure git**
 
-    - [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-
+  - [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+    
     ```bash
     git config --global user.email <you@example.com>
     git config --global user.name <Your Name>
     ```
 
-    - configure [git credential manager core](https://github.com/microsoft/Git-Credential-Manager-Core/) for PAT (Personel Access Token)
+  - configure [git credential manager core](https://github.com/microsoft/Git-Credential-Manager-Core/) for PAT (Personel Access Token)
 
     ```bash
     # tell Git you want to store credentials in the osxkeychain
     git config --global credential.helper osxkeychain
-    # add your access token to the osxkeychain
+      
+    # add your access token to the osxkeychain- by using pull/push
     # when prompted for password, instead enter access token(it get cached in the osxkeychain automatically)
     git clone https://github.com/username/repo.git
-  ```
+      ```
 
 - **install & configure open-ssh**
 
