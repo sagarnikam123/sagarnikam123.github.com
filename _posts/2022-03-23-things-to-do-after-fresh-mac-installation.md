@@ -90,10 +90,13 @@ After installing a fresh version of MacOS installation, you need to do a minimum
     - configure [git credential manager core](https://github.com/microsoft/Git-Credential-Manager-Core/) for PAT (Personel Access Token)
 
     ```bash
-    git config --global credential.credentialStore plaintext
-    git config --global credential.plaintextStorePath </pathToPAT/pat/credentials>
+    # tell Git you want to store credentials in the osxkeychain
+    git config --global credential.helper osxkeychain
+    # add your access token to the osxkeychain
+    # when prompted for password, instead enter access token(it get cached in the osxkeychain automatically)
+    git clone https://github.com/username/repo.git
   ```
-  
+
 - **install & configure open-ssh**
 
   ```bash
