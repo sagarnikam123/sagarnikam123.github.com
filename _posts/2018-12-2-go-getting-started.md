@@ -61,7 +61,11 @@ tags: [golang, gotools, gpextension,]
 
   - **For Learning go**
 
-    - [tour](https://github.com/golang/tour) - A Tour of Go (introduction to the Go programming language, offline)
+    - [tour](https://go.dev/tour/welcome/3) - A Tour of Go (introduction to the Go programming language, offline)
+      - This will place a tour binary in your GOPATH's bin directory
       - ```
-        go get golang.org/x/tour
+        go install golang.org/x/website/tour@latest
+
+        # run it
+        $HOME/go/bin/tour
         ```
