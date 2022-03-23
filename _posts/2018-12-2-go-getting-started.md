@@ -42,6 +42,10 @@ tags: [golang, gotools, gpextension,]
       - For Visual Studio -  analysis tools
 
           - ```
+            go install -v github.com/ramya-rao-a/go-outline@latest
+            go install -v golang.org/x/tools/gopls@latest
+            ```
+          - ```
             go get -u github.com/uudashr/gopkgs/cmd/gopkgs 
             go get -u github.com/ramya-rao-a/go-outline 
             go get -u github.com/acroca/go-symbols 
