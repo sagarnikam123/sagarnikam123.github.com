@@ -107,7 +107,13 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   sudo port install openssh
   sudo port load openssh
   ```
+- **install/uninstall with brew**
 
+  ```bash
+  brew install wget
+  brew list # lists apps installed by brew
+  brew uninstall wget
+  ```
 - **containers & kubernetes** (docker without _Docker Desktop_)
   - install [Rancher Desktop](https://rancherdesktop.io/) (it install below items by default/choice)
     - *container runtime* of your choice (containerd or dockerd) - free
