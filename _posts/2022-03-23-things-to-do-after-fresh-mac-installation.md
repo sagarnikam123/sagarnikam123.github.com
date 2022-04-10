@@ -84,7 +84,7 @@ After installing a fresh version of MacOS installation, you need to do a minimum
 - **configure git**
 
   - [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-    
+
     ```bash
     git config --global user.email <you@example.com>
     git config --global user.name <Your Name>
@@ -95,7 +95,7 @@ After installing a fresh version of MacOS installation, you need to do a minimum
     ```bash
     # tell Git you want to store credentials in the osxkeychain
     git config --global credential.helper osxkeychain
-      
+
     # add your access token to the osxkeychain- by using pull/push
     # when prompted for password, instead enter access token(it get cached in the osxkeychain automatically)
     git clone https://github.com/username/repo.git
@@ -108,6 +108,9 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   sudo port load openssh
   ```
 
-- **other things to do**
-
-  - starting soon
+- **containers & kubernetes** (docker without _Docker Desktop_)
+  - install [Rancher Desktop](https://rancherdesktop.io/) (it install below items by default/choice)
+    - *container runtime* of your choice (containerd or dockerd) - free
+    - kubernetes, Traefik
+    - docker(cli), docker-compose, docker-buildx
+    - kubectl, helm, nerdctl, rdctl
