@@ -43,7 +43,7 @@ tags: [resources,problems,challenges]
 #### Competition
 * [Google code jam](https://code.google.com/codejam/ "Code Jam homepage")
 * [Al Zimmermann's Programming Contests](http://www.azspcs.net/)
-* [Xodia](http://xodia.pythonanywhere.com/xodialatest/) 
+* [Xodia](http://xodia.pythonanywhere.com/xodialatest/)
 * [The Underhanded C Contest](http://www.underhanded-c.org/)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk/)
 * [USA Computing Olympiad](http://www.usaco.org/index.php)

@@ -55,7 +55,7 @@ or `make helloWorld` or `gcc helloWorld.c -o helloWorld`
 ```
 ./helloWorld
 ```
-	
+
 -----
 
 #### compile & running cpp program on Linux
@@ -84,19 +84,19 @@ or
 ```
 make helloWorld
 ```
-	
+
 * **run**
 
 ```
 ./helloWorld
 ```
-	
+
 ----
 
 #### generating symbolic information for gdb and warning messages
 
 ```
-cc -g -Wall helloWorld.c -o helloWorld 
+cc -g -Wall helloWorld.c -o helloWorld
 ```
 
 ```

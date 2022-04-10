@@ -389,7 +389,7 @@ Markdown | Less      | Pretty
 ## Videos
 
 * Supports **Youtube** & **Dailymotion** videos (Others are supported if direct URL to to video, ending with .mp4 .3gp etc.)
-* can't be added directly but you can add an image with a link to the video as 
+* can't be added directly but you can add an image with a link to the video as
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE

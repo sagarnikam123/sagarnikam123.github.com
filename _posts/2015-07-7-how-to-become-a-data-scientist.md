@@ -8,4 +8,3 @@ tags : [data science,data,analytics]
 {% include JB/setup %}
 
 ![How to become a Data Scientist ?](/assets/infographics/How-to-become-a-data-scientist.jpg)
-

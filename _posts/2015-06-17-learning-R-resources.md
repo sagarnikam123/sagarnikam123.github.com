@@ -73,8 +73,8 @@ and the R Core Team"))
 * R Graphics ([PDF](http://www.mediafire.com/view/dx8pc11hqrlu7jn/R_Graphics.pdf))
 * R in a Nutshell ([PDF](http://www.mediafire.com/view/m9wvs608lhvhyic/R_in_a_Nutshell.pdf))
 * R in Action ([PDF](http://www.mediafire.com/view/3m4q651zbf1wq1q/R_in_Action.pdf))
-* R Programming for Bioinformatics ([PDF](http://www.mediafire.com/view/7135zi8topml6t2/R_Programming_for_Bioinformatics.pdf)) 
-* R Through Excel ([PDF](http://www.mediafire.com/view/sbg7b5a9xc97bta/R_Through_Excel.pdf))	
+* R Programming for Bioinformatics ([PDF](http://www.mediafire.com/view/7135zi8topml6t2/R_Programming_for_Bioinformatics.pdf))
+* R Through Excel ([PDF](http://www.mediafire.com/view/sbg7b5a9xc97bta/R_Through_Excel.pdf))
 * The R Book ([PDF](http://www.mediafire.com/view/qbkparecj3bevsb/The_R_Book.pdf))
 
 ----------------------------
