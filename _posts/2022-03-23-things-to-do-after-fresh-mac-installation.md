@@ -66,6 +66,7 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   - [RStudio](https://www.rstudio.com/products/rstudio/download/)
   - [MySQL JDBC connector](https://dev.mysql.com/downloads/connector/j/)
   - [R](https://cran.r-project.org/bin/macosx/)
+  - [RStudio](https://www.rstudio.com/products/rstudio/download/)
   - [Zettlr](https://www.zettlr.com/) (Markdown editor)
 
 - **install & configure (export path variables to .bashrc)**
