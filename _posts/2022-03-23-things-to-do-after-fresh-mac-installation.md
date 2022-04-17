@@ -32,6 +32,13 @@ After installing a fresh version of MacOS installation, you need to do a minimum
 
 - install **[MacPorts](https://www.macports.org/install.php)**
 
+  ```bash
+  sudo port selfupdate # to update port
+  port installed # all installed ports
+  port outdated # list of outdated ports
+  port upgrade vim # upgrade installed port
+  ```
+
 - create **.zshrc** file in home directory
 
   ```bash
@@ -58,6 +65,7 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   - [Dropbox](https://www.dropbox.com/downloading)
   - [RStudio](https://www.rstudio.com/products/rstudio/download/)
   - [MySQL JDBC connector](https://dev.mysql.com/downloads/connector/j/)
+  - [R](https://cran.r-project.org/bin/macosx/)
   - [Zettlr](https://www.zettlr.com/) (Markdown editor)
 
 - **install & configure (export path variables to .bashrc)**
