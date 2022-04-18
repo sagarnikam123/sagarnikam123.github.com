@@ -68,6 +68,8 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   - [R](https://cran.r-project.org/bin/macosx/)
   - [RStudio](https://www.rstudio.com/products/rstudio/download/)
   - [Zettlr](https://www.zettlr.com/) (Markdown editor)
+  - [cmake](https://cmake.org/download/)
+  -
 
 - **install & configure (export path variables to .bashrc)**
 
@@ -89,6 +91,30 @@ After installing a fresh version of MacOS installation, you need to do a minimum
     export GOPATH=$HOME/go
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
     ```
+
+  - [Maven](https://maven.apache.org/download.cgi)
+
+    ```bash
+    # check JAVA_HOME
+    tar xzvf apache-maven-3.8.5-bin.tar.gz
+    sudo mv apache-maven-3.8.5 /opt/
+    # path
+    export MAVEN_HOME=/opt/apache-maven-3.8.5
+    export PATH=$PATH:$MAVEN_HOME/bin
+    ```
+
+  - [Protocol Buffers](https://github.com/protocolbuffers/protobuf/releases)
+
+    ```bash
+    unzip protoc-3.20.0-osx-x86_64.zip
+    sudo mv protoc-3.20.0-osx-x86_64 /opt/
+    # path
+    PROTOC_HOME=/opt/protoc-3.20.0-osx-x86_64
+    export PATH=$PATH:$PROTOC_HOME
+    # check
+    protoc --version
+    ```
+
 
 - **configure git**
 
