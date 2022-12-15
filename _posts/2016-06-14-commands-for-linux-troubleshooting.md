@@ -21,11 +21,13 @@ sudo netstat -peanut | grep ":5140"
 ```
 
 #### kill process on specific port
+```
 fuser -k 8080/tcp
 kill -9 $(lsof -t -i:8080)
 
 kill -9 $(lsof -t -i:9092)
 fuser -k 9092/tcp
+```
 
 ##### checking port 8080 is open or not
 ```
@@ -45,7 +47,13 @@ sudo nmap -sT -O localhost
 ```
 
 ---
+### permission
 
+#### Changing the ownership of all sub-directories
+```bash
+sudo chown -R snikam:snikam ./Prod/
+```
+---
 ### process
 
 ```
