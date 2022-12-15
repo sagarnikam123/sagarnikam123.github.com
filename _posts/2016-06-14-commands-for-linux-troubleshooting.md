@@ -20,7 +20,7 @@ sudo netstat -ant | grep :2181
 sudo netstat -peanut | grep ":5140"
 ```
 
-#### kill process on specific port
+##### kill process on specific port
 ```
 fuser -k 8080/tcp
 kill -9 $(lsof -t -i:8080)
@@ -47,13 +47,15 @@ sudo nmap -sT -O localhost
 ```
 
 ---
+
 ### permission
 
-#### Changing the ownership of all sub-directories
+##### Changing the ownership of all sub-directories
 ```bash
 sudo chown -R snikam:snikam ./Prod/
 ```
 ---
+
 ### process
 
 ```
@@ -62,7 +64,7 @@ ps aux | grep java
 
 ---
 
-#### Shutdown/Restart
+### Shutdown/Restart
 
 * Restart now
 
