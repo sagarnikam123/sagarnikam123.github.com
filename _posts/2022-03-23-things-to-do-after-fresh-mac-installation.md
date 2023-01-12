@@ -46,10 +46,23 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   ```
 
 - colorize terminal output (folders & files with diff. colors)
-- 
+
   ```bash
   nano ~/.zshrc
   export CLICOLOR=1
+  ```
+
+- change shell from **zshrc** to **bash**
+
+  ```bash
+  # list of included shells
+  cat /etc/shells
+
+  # change default shell to Bash
+  chsh -s /bin/bash
+
+  # change default shell back to Zsh
+  chsh -s /bin/zsh
   ```
 
 - install **xcode command-line tools** (it prompts to install)
