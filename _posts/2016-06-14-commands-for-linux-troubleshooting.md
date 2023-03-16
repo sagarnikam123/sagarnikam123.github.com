@@ -58,8 +58,16 @@ sudo chown -R snikam:snikam ./Prod/
 
 ### process
 
+* process id of running program
+
 ```
 ps aux | grep java
+```
+
+* kill prcess with given id
+
+```bash
+ps aux | grep -i firefox | awk {'print $2'} | xargs kill -9
 ```
 
 ---
