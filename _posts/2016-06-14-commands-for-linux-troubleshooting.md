@@ -117,3 +117,13 @@ auto eth0
 sudo ifup eth0
 ```
 ---
+
+#### Python
+* ModuleNotFoundError: no module named <X> Error
+```python
+import sys
+import os
+
+# add dir to PYTHONPATH
+sys.path.append(os.getcwd())
+```
