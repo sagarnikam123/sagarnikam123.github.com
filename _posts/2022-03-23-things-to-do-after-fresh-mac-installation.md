@@ -30,7 +30,7 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
 
-- install **[MacPorts](https://www.macports.org/install.php)**
+- install **[MacPorts](https://www.macports.org/install.php)** (optional, as alternative to Homebrew)
 
   ```bash
   sudo port selfupdate # to update port
@@ -45,14 +45,14 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   nano ~/.zshrc
   ```
 
-- colorize terminal output (folders & files with diff. colors)
+- colorize terminal output (folders & files with diff. colors) (optional)
 
   ```bash
   nano ~/.zshrc
   export CLICOLOR=1
   ```
 
-- change shell from **zshrc** to **bash**
+- change shell from **zshrc** to **bash** (Only if you want to change shell, else leave it.)
 
   ```bash
   # list of included shells
@@ -89,9 +89,9 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   - [RStudio](https://www.rstudio.com/products/rstudio/download/)
   - [Zettlr](https://www.zettlr.com/) (Markdown editor)
   - [cmake](https://cmake.org/download/)
-  -
+  
 
-- **install & configure (export path variables to .bashrc)**
+- **install & configure (export path variables to .zshrc/.bashrc)**
 
   - [Oracle Java JDK (LTS)](https://www.oracle.com/java/technologies/javase-downloads.html)
 
@@ -101,6 +101,13 @@ After installing a fresh version of MacOS installation, you need to do a minimum
     export PATH=$PATH:$JAVA_HOME/bin
 
     # export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.14.jdk/Contents/Home
+    ```
+
+  - [Python](https://www.python.org/)
+    ```bash
+    # Python - depending on your version & location
+    export PATH=$PATH:/Library/Frameworks/Python.framework/Versions/3.11/bin
+    # export PATH=$PATH:/$HOME/Library/Python/3.9/bin
     ```
 
   - [Go](https://go.dev/dl/)
@@ -169,8 +176,9 @@ After installing a fresh version of MacOS installation, you need to do a minimum
   brew list # lists apps installed by brew
   brew uninstall wget
   ```
-- **containers & kubernetes** (docker without _Docker Desktop_)
-  - install [Rancher Desktop](https://rancherdesktop.io/) (it install below items by default/choice)
+- **containers & kubernetes**
+  - install [Docker Desktop on Mac](https://docs.docker.com/desktop/install/mac-install/)
+  - install [Rancher Desktop](https://rancherdesktop.io/)  (docker without _Docker Desktop_)
     - *container runtime* of your choice (containerd or dockerd) - free
     - kubernetes, Traefik
     - docker(cli), docker-compose, docker-buildx
