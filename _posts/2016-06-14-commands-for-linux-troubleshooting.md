@@ -132,3 +132,10 @@ sys.path.append(os.getcwd())
 ```python
 export PYTHONPATH=${PYTHONPATH}:${HOME}/abcPythonModule 
 ```
+
+### other
+
+#### vs code - column selction on Mac
+```
+Shift + option + Command + Right/Left
+```
