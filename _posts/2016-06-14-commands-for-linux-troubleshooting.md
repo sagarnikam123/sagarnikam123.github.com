@@ -9,13 +9,36 @@ tags: [troubleshooting, commands]
 
 ### port
 
-##### Check to see if the server is listening on the host:
+##### List open ports
 ```
-sudo lsof -i :8080
+sudo netstat -tulpn | grep LISTEN
+```
+
+##### view port number and mapped service
+```
+cat /etc/services
+grep -w '80/tcp' /etc/services
+grep -w '443/tcp' /etc/services
+grep -E -w '22/(tcp|udp)' /etc/services
+grep -E -w '2020/(tcp|udp)' /etc/services
+cat /etc/services | grep 8080
+```
+
+##### list the programs that utilize listening ports
+```
+# Display a list of ports in use
+sudo lsof -nP -iTCP -sTCP:LISTEN
+
+# Check a specific port number is in use
+# If the port is free, the command shows no output
+sudo lsof -nP -i :8080
+sudo lsof -nP -iUDP:53 # to check if the UDP port 53 is open
 
 sudo fuser 9092/tcp
 sudo fuser -n tcp 9092
 
+# display the listening ports/sockets by checking the State column
+sudo netstat -tunpl
 sudo netstat -ant | grep :2181
 sudo netstat -peanut | grep ":5140"
 ```
@@ -29,10 +52,7 @@ kill -9 $(lsof -t -i:9092)
 fuser -k 9092/tcp
 ```
 
-##### checking port 8080 is open or not
-```
-cat /etc/services | grep 8080
-```
+
 
 ##### connecting to open port
 ```
@@ -44,7 +64,12 @@ telnet localhost 8080
 ```
 sudo yum install nmap
 sudo nmap -sT -O localhost
+sudo nmap -sT -O 127.0.0.1 #[ list open TCP ports ]##
+sudo nmap -sU -O 192.168.2.254 #[ list open UDP ports ]##
+sudo nmap -sTU -O 192.168.2.24
 ```
+
+##### Opening a Port on Linux to Allow TCP Connections
 
 ---
 
