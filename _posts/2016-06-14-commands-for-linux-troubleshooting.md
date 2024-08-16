@@ -52,8 +52,6 @@ kill -9 $(lsof -t -i:9092)
 fuser -k 9092/tcp
 ```
 
-
-
 ##### connecting to open port
 ```
 sudo yum install telnet
@@ -68,8 +66,24 @@ sudo nmap -sT -O 127.0.0.1 #[ list open TCP ports ]##
 sudo nmap -sU -O 192.168.2.254 #[ list open UDP ports ]##
 sudo nmap -sTU -O 192.168.2.24
 ```
+##### viewing port info using iptables
+```bash
+# list out all of the active iptables rules by specification
+sudo iptables -S
+# output all of the active iptables rules in a table
+sudo iptables -L
+```
 
 ##### Opening a Port on Linux to Allow TCP Connections
+```bash
+# accept all traffic on your loopback interface
+sudo iptables -A INPUT -i lo -j ACCEPT
+sudo iptables -A OUTPUT -o lo -j ACCEPT
+
+# Allowing All Incoming fluent-bit port (2020)
+sudo iptables -A INPUT -p tcp --dport 2020 -m conntrack --ctstate NEW,ESTABLISHED -j ACCEPT
+sudo iptables -A OUTPUT -p tcp --sport 2020 -m conntrack --ctstate ESTABLISHED -j ACCEPT
+```
 
 ---
 
