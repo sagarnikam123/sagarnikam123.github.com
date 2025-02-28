@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "commands for linux troubleshooting (draft)"
-description: "imp commands used during troubleshooting"
-category: [linux]
-tags: [troubleshooting, commands]
+title: "Python fillers (draft)"
+description: "imp code snippets used during fast programming"
+category: [python]
+tags: [logging, snippet]
 ---
 {% include JB/setup %}
 
