@@ -10,12 +10,12 @@ tags: [troubleshooting, commands]
 ### port
 
 ##### List open ports
-```
+```bash
 sudo netstat -tulpn | grep LISTEN
 ```
 
 ##### view port number and mapped service
-```
+```bash
 cat /etc/services
 grep -w '80/tcp' /etc/services
 grep -w '443/tcp' /etc/services
@@ -25,7 +25,7 @@ cat /etc/services | grep 8080
 ```
 
 ##### list the programs that utilize listening ports
-```
+```bash
 # Display a list of ports in use
 sudo lsof -nP -iTCP -sTCP:LISTEN
 
@@ -44,7 +44,7 @@ sudo netstat -peanut | grep ":5140"
 ```
 
 ##### kill process on specific port
-```
+```bash
 fuser -k 8080/tcp
 kill -9 $(lsof -t -i:8080)
 
@@ -53,13 +53,13 @@ fuser -k 9092/tcp
 ```
 
 ##### connecting to open port
-```
+```bash
 sudo yum install telnet
 telnet localhost 8080
 ```
 
 ##### scanning port for open port & running services on it
-```
+```bash
 sudo yum install nmap
 sudo nmap -sT -O localhost
 sudo nmap -sT -O 127.0.0.1 #[ list open TCP ports ]##
@@ -99,7 +99,7 @@ sudo chown -R snikam:snikam ./Prod/
 
 * process id of running program
 
-```
+```bash
 ps aux | grep java
 ```
 
@@ -115,13 +115,13 @@ ps aux | grep -i firefox | awk {'print $2'} | xargs kill -9
 
 * Restart now
 
-```
+```bash
 sudo shutdown -r now
 ```
 
 * shutdown now (immediately)
 
-```
+```bash
 sudo ?
 ```
 
@@ -133,13 +133,13 @@ sudo ?
 
 * Check if it is configured
 
-```
+```bash
 sudo ifdown eth0
 ```
 
 * Edit like this (just the important lines):
 
-```
+```bash
 sudo gedit /etc/network/interfaces
 
 auto eth0
@@ -152,7 +152,7 @@ auto eth0
 
 * Activate the new IP
 
-```
+```bash
 sudo ifup eth0
 ```
 ---
@@ -171,10 +171,52 @@ sys.path.append(os.getcwd())
 ```python
 export PYTHONPATH=${PYTHONPATH}:${HOME}/abcPythonModule 
 ```
+---
 
 ### other
 
 #### vs code - column selction on Mac
-```
+```bash
 Shift + option + Command + Right/Left
 ```
+---
+
+### Minikube
+
+#### View Minikube resource allocation when started
+```bash
+minikube config view
+```
+
+#### actual allocated resources
+```bash
+minikube ssh -- 'grep -E "cpu|mem|disk" /proc/meminfo /proc/cpuinfo && df -h'
+```
+
+#### inspect the VM directly (depending on the driver) - VirtualBox, HyperKit, VMware, etc.
+```bash
+minikube ssh
+
+# CPU
+nproc
+
+# Memory
+free -h
+
+# Disk
+df -h /
+```
+
+#### Kubernetes Resource View (optional)
+```bash
+kubectl describe node
+```
+- Capacity → Total allocatable CPU/memory
+- Allocatable → Resources available to pods
+- Allocated resources → What is used
+
+#### When Starting Minikube (for future reference)
+```bash
+minikube start --cpus=4 --memory=8192 --disk-size=40g
+```
+---
