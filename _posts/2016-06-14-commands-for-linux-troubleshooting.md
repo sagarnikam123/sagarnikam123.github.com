@@ -217,6 +217,7 @@ kubectl describe node
 
 #### When Starting Minikube (for future reference)
 ```bash
-minikube start --cpus=4 --memory=8192 --disk-size=40g
+minikube start --cpus=4 --nodes=2 --memory=8192 --disk-size=32g
+minikube start --kubernetes-version=v1.32.0 --cpus=4 --memory=8192 --disk-size=30g --vm-driver=hyperkit
 ```
 ---
